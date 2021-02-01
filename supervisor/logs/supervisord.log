@@ -1,0 +1,1765 @@
+2020-12-02 16:07:20,398 CRIT Supervisor running as root (no user in config file)
+2020-12-02 16:07:20,398 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-02 16:07:20,408 INFO RPC interface 'supervisor' initialized
+2020-12-02 16:07:20,408 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-02 16:07:20,408 INFO daemonizing the supervisord process
+2020-12-02 16:07:20,409 INFO supervisord started with pid 230
+2020-12-02 16:07:21,412 INFO spawned: 'Chat-Start_00' with pid 231
+2020-12-02 16:07:21,579 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-02 16:07:22,581 INFO spawned: 'Chat-Start_00' with pid 238
+2020-12-02 16:07:22,752 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-02 16:07:24,756 INFO spawned: 'Chat-Start_00' with pid 245
+2020-12-02 16:07:24,923 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-02 16:07:27,928 INFO spawned: 'Chat-Start_00' with pid 252
+2020-12-02 16:07:28,096 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-02 16:07:29,097 INFO gave up: Chat-Start_00 entered FATAL state, too many start retries too quickly
+2020-12-02 16:08:09,811 CRIT Supervisor running as root (no user in config file)
+2020-12-02 16:08:09,811 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-02 16:08:09,812 INFO RPC interface 'supervisor' initialized
+2020-12-02 16:08:09,812 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-02 16:08:09,812 INFO supervisord started with pid 230
+2020-12-02 16:08:10,814 INFO spawned: 'Chat-Start_00' with pid 340
+2020-12-02 16:08:10,981 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-02 16:08:11,984 INFO spawned: 'Chat-Start_00' with pid 347
+2020-12-02 16:08:12,185 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-02 16:08:14,189 INFO spawned: 'Chat-Start_00' with pid 354
+2020-12-02 16:08:14,351 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-02 16:08:17,356 INFO spawned: 'Chat-Start_00' with pid 361
+2020-12-02 16:08:17,526 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-02 16:08:18,527 INFO gave up: Chat-Start_00 entered FATAL state, too many start retries too quickly
+2020-12-02 16:48:08,363 CRIT Supervisor running as root (no user in config file)
+2020-12-02 16:48:08,363 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-02 16:48:08,377 INFO RPC interface 'supervisor' initialized
+2020-12-02 16:48:08,377 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-02 16:48:08,378 INFO daemonizing the supervisord process
+2020-12-02 16:48:08,379 INFO supervisord started with pid 20
+2020-12-02 16:48:09,382 INFO spawned: 'Chat-Start_00' with pid 21
+2020-12-02 16:48:10,691 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-02 16:48:48,963 INFO waiting for Chat-Start_00 to die
+2020-12-02 16:48:48,982 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-02 16:48:48,987 CRIT Supervisor running as root (no user in config file)
+2020-12-02 16:48:48,987 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-02 16:48:48,988 INFO RPC interface 'supervisor' initialized
+2020-12-02 16:48:48,988 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-02 16:48:48,988 INFO supervisord started with pid 20
+2020-12-02 16:48:49,990 INFO spawned: 'Chat-Start_00' with pid 117
+2020-12-02 16:48:51,260 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-02 17:58:31,102 INFO waiting for Chat-Start_00 to die
+2020-12-02 17:58:31,122 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-02 17:58:31,127 CRIT Supervisor running as root (no user in config file)
+2020-12-02 17:58:31,127 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-02 17:58:31,128 INFO RPC interface 'supervisor' initialized
+2020-12-02 17:58:31,128 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-02 17:58:31,128 INFO supervisord started with pid 20
+2020-12-02 17:58:32,131 INFO spawned: 'Chat-Start_00' with pid 211
+2020-12-02 17:58:33,464 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-02 21:22:08,370 INFO waiting for Chat-Start_00 to die
+2020-12-02 21:22:08,393 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-02 21:22:08,398 CRIT Supervisor running as root (no user in config file)
+2020-12-02 21:22:08,398 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-02 21:22:08,399 INFO RPC interface 'supervisor' initialized
+2020-12-02 21:22:08,399 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-02 21:22:08,399 INFO supervisord started with pid 20
+2020-12-02 21:22:09,402 INFO spawned: 'Chat-Start_00' with pid 304
+2020-12-02 21:22:10,678 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-02 21:26:31,289 CRIT Supervisor running as root (no user in config file)
+2020-12-02 21:26:31,289 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-02 21:26:31,298 INFO RPC interface 'supervisor' initialized
+2020-12-02 21:26:31,298 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-02 21:26:31,299 INFO daemonizing the supervisord process
+2020-12-02 21:26:31,300 INFO supervisord started with pid 21
+2020-12-02 21:26:32,303 INFO spawned: 'Chat-Start_00' with pid 22
+2020-12-02 21:26:33,647 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-03 15:07:15,920 INFO waiting for Chat-Start_00 to die
+2020-12-03 15:07:15,941 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-03 15:07:15,946 CRIT Supervisor running as root (no user in config file)
+2020-12-03 15:07:15,946 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-03 15:07:15,947 INFO RPC interface 'supervisor' initialized
+2020-12-03 15:07:15,947 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-03 15:07:15,947 INFO supervisord started with pid 21
+2020-12-03 15:07:16,949 INFO spawned: 'Chat-Start_00' with pid 196
+2020-12-03 15:07:18,265 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-05 16:45:06,722 INFO waiting for Chat-Start_00 to die
+2020-12-05 16:45:07,745 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-05 16:45:07,751 CRIT Supervisor running as root (no user in config file)
+2020-12-05 16:45:07,751 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-05 16:45:07,751 INFO RPC interface 'supervisor' initialized
+2020-12-05 16:45:07,751 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-05 16:45:07,751 INFO supervisord started with pid 21
+2020-12-05 16:45:08,754 INFO spawned: 'Chat-Start_00' with pid 637
+2020-12-05 16:45:10,021 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-05 18:56:49,333 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:56:52,338 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:56:55,341 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:56:58,345 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:01,349 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:04,352 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:07,356 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:10,360 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:13,363 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:16,366 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:19,370 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:22,373 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:25,377 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:28,381 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:31,384 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:34,388 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:37,391 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:40,395 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:43,398 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:46,402 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:49,406 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:52,409 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:55,413 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:57:58,417 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:01,420 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:04,424 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:07,428 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:10,431 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:13,435 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:16,439 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:19,442 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:22,445 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:25,449 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:28,453 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:31,456 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:34,460 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:37,464 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:40,467 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:43,471 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:46,475 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:49,479 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:52,482 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:55,486 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:58:58,490 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:01,494 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:04,497 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:07,501 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:10,505 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:13,508 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:16,512 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:19,516 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:22,519 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:25,522 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:28,526 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:31,530 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:34,533 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:37,537 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:40,541 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:43,544 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:46,548 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:49,552 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:52,555 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:55,559 INFO waiting for Chat-Start_00 to die
+2020-12-05 18:59:58,563 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:01,567 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:04,570 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:07,574 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:10,578 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:13,581 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:16,585 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:19,588 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:22,592 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:25,595 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:28,597 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:31,600 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:34,604 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:37,607 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:40,611 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:43,615 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:46,618 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:49,622 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:52,626 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:55,628 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:00:58,632 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:01,636 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:04,640 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:07,643 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:10,646 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:13,650 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:16,653 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:19,657 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:22,661 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:25,664 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:28,668 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:31,671 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:34,674 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:37,678 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:40,681 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:43,685 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:46,689 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:49,692 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:52,695 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:55,699 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:01:58,703 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:01,706 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:04,709 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:07,712 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:10,716 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:13,719 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:16,722 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:20,389 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:23,393 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:26,397 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:29,400 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:32,404 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:35,408 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:38,411 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:41,414 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:44,418 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:47,421 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:50,424 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:53,428 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:56,432 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:02:59,435 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:02,439 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:05,442 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:08,446 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:11,450 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:14,453 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:17,457 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:20,461 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:23,464 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:26,468 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:29,471 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:32,475 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:35,479 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:38,482 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:41,486 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:44,490 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:47,494 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:50,497 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:53,501 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:56,505 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:03:59,508 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:02,512 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:05,515 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:08,518 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:11,522 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:14,526 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:17,529 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:20,533 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:23,537 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:26,540 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:29,543 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:32,547 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:35,550 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:39,073 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:42,076 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:45,080 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:48,084 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:51,087 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:54,091 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:04:57,094 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:00,098 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:03,102 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:06,105 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:09,109 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:12,112 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:15,115 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:18,119 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:21,123 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:24,126 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:27,130 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:30,134 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:33,136 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:36,140 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:39,144 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:42,148 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:45,151 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:48,155 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:51,158 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:54,162 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:05:57,166 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:00,169 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:03,173 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:06,177 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:09,180 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:12,184 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:15,188 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:18,192 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:21,195 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:24,199 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:27,203 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:30,206 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:33,209 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:36,212 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:39,215 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:42,219 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:45,223 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:48,227 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:51,230 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:54,234 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:06:57,237 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:00,241 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:03,245 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:06,248 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:09,252 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:12,256 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:15,259 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:18,263 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:21,267 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:24,270 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:27,274 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:30,278 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:33,281 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:36,285 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:39,289 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:42,293 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:45,296 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:48,300 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:51,304 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:54,307 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:07:57,311 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:00,313 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:03,316 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:06,320 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:09,324 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:12,327 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:15,331 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:18,335 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:21,338 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:24,342 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:27,346 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:30,350 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:33,353 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:36,356 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:39,360 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:42,364 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:45,366 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:48,370 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:51,374 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:54,377 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:08:57,381 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:00,385 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:03,389 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:06,392 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:09,396 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:12,400 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:15,403 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:18,407 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:21,411 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:24,414 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:27,417 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:30,421 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:33,425 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:36,428 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:39,432 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:42,436 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:45,439 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:48,443 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:51,446 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:54,450 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:09:57,454 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:00,457 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:03,461 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:06,465 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:09,468 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:12,472 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:15,476 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:18,479 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:21,483 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:24,487 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:27,490 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:30,494 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:33,498 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:36,501 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:39,505 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:42,509 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:45,512 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:48,516 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:51,520 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:54,523 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:10:57,526 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:00,530 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:03,534 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:06,538 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:09,541 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:12,545 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:15,549 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:18,552 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:21,556 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:24,560 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:27,563 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:30,567 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:33,571 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:36,574 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:39,578 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:42,581 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:45,585 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:48,588 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:51,592 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:54,596 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:11:57,599 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:00,603 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:03,607 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:06,610 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:09,613 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:12,616 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:15,620 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:18,624 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:21,627 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:24,631 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:27,634 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:30,637 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:33,641 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:36,645 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:39,649 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:42,652 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:45,656 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:48,660 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:51,663 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:54,667 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:12:57,670 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:00,675 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:03,678 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:06,682 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:09,685 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:12,689 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:15,693 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:18,697 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:21,700 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:24,704 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:27,707 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:30,711 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:33,715 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:36,718 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:39,722 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:42,726 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:45,729 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:48,733 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:51,737 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:54,740 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:13:57,744 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:00,748 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:03,751 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:06,755 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:09,759 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:12,763 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:15,766 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:18,770 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:21,774 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:24,778 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:27,781 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:30,785 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:33,787 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:36,791 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:39,795 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:42,798 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:45,802 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:48,805 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:51,808 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:54,811 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:14:57,814 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:00,818 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:03,822 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:06,825 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:09,829 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:12,833 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:15,837 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:18,840 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:21,844 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:24,848 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:27,851 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:30,855 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:33,859 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:36,862 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:39,866 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:42,870 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:45,873 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:48,877 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:51,881 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:54,884 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:15:57,888 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:00,892 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:03,895 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:06,899 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:09,903 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:12,907 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:15,909 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:18,913 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:21,917 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:24,920 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:27,924 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:30,928 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:33,931 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:36,935 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:39,938 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:42,942 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:45,946 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:48,949 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:51,953 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:54,957 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:16:57,961 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:00,963 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:03,967 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:06,971 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:09,974 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:12,978 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:15,982 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:18,985 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:21,988 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:24,992 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:27,996 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:30,999 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:34,002 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:37,005 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:40,008 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:43,012 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:46,016 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:49,019 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:52,022 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:55,026 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:17:58,030 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:01,033 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:04,037 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:07,040 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:10,044 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:13,048 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:16,052 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:19,055 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:22,059 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:25,063 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:28,066 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:31,070 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:34,074 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:37,077 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:40,081 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:43,085 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:46,088 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:49,091 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:52,094 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:55,098 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:18:58,101 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:01,104 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:03,527 WARN received SIGTERM indicating exit request
+2020-12-05 19:19:04,528 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:07,532 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:10,535 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:13,538 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:16,541 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:19,544 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:22,548 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:25,552 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:28,555 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:19:31,558 INFO waiting for Chat-Start_00 to die
+2020-12-05 19:43:56,531 CRIT Supervisor running as root (no user in config file)
+2020-12-05 19:43:56,531 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-05 19:43:56,841 INFO RPC interface 'supervisor' initialized
+2020-12-05 19:43:56,841 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-05 19:43:56,842 INFO daemonizing the supervisord process
+2020-12-05 19:43:56,843 INFO supervisord started with pid 1238
+2020-12-05 19:43:57,845 INFO spawned: 'Chat-Start_00' with pid 1249
+2020-12-05 19:43:58,161 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:43:58,920 CRIT Supervisor running as root (no user in config file)
+2020-12-05 19:43:58,920 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-05 19:43:58,921 INFO RPC interface 'supervisor' initialized
+2020-12-05 19:43:58,921 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-05 19:43:58,921 INFO supervisord started with pid 1238
+2020-12-05 19:43:59,924 INFO spawned: 'Chat-Start_00' with pid 1262
+2020-12-05 19:44:00,180 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:44:01,183 INFO spawned: 'Chat-Start_00' with pid 1270
+2020-12-05 19:44:01,496 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:44:03,499 INFO spawned: 'Chat-Start_00' with pid 1278
+2020-12-05 19:44:03,791 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:44:06,796 INFO spawned: 'Chat-Start_00' with pid 1286
+2020-12-05 19:44:07,081 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:44:08,082 INFO gave up: Chat-Start_00 entered FATAL state, too many start retries too quickly
+2020-12-05 19:45:37,689 CRIT Supervisor running as root (no user in config file)
+2020-12-05 19:45:37,689 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-05 19:45:37,689 INFO RPC interface 'supervisor' initialized
+2020-12-05 19:45:37,689 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-05 19:45:37,689 INFO supervisord started with pid 1238
+2020-12-05 19:45:38,692 INFO spawned: 'Chat-Start_00' with pid 1362
+2020-12-05 19:45:38,991 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:45:39,994 INFO spawned: 'Chat-Start_00' with pid 1370
+2020-12-05 19:45:40,352 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:45:42,355 INFO spawned: 'Chat-Start_00' with pid 1378
+2020-12-05 19:45:42,658 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:45:45,663 INFO spawned: 'Chat-Start_00' with pid 1386
+2020-12-05 19:45:45,952 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-05 19:45:46,953 INFO gave up: Chat-Start_00 entered FATAL state, too many start retries too quickly
+2020-12-06 09:40:50,674 CRIT Supervisor running as root (no user in config file)
+2020-12-06 09:40:50,674 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-06 09:40:50,687 INFO RPC interface 'supervisor' initialized
+2020-12-06 09:40:50,687 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-06 09:40:50,688 INFO daemonizing the supervisord process
+2020-12-06 09:40:50,688 INFO supervisord started with pid 1485
+2020-12-06 09:40:51,691 INFO spawned: 'Chat-Start_00' with pid 1491
+2020-12-06 09:40:52,067 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:40:52,752 CRIT Supervisor running as root (no user in config file)
+2020-12-06 09:40:52,752 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-06 09:40:52,753 INFO RPC interface 'supervisor' initialized
+2020-12-06 09:40:52,753 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-06 09:40:52,753 INFO supervisord started with pid 1485
+2020-12-06 09:40:53,756 INFO spawned: 'Chat-Start_00' with pid 1504
+2020-12-06 09:40:54,073 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:40:55,076 INFO spawned: 'Chat-Start_00' with pid 1512
+2020-12-06 09:40:55,430 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:40:57,434 INFO spawned: 'Chat-Start_00' with pid 1520
+2020-12-06 09:40:57,763 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:41:00,768 INFO spawned: 'Chat-Start_00' with pid 1528
+2020-12-06 09:41:01,063 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:41:02,064 INFO gave up: Chat-Start_00 entered FATAL state, too many start retries too quickly
+2020-12-06 09:45:39,668 CRIT Supervisor running as root (no user in config file)
+2020-12-06 09:45:39,668 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-06 09:45:39,668 INFO RPC interface 'supervisor' initialized
+2020-12-06 09:45:39,668 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-06 09:45:39,669 INFO supervisord started with pid 1485
+2020-12-06 09:45:40,671 INFO spawned: 'Chat-Start_00' with pid 1555
+2020-12-06 09:45:40,967 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:45:42,652 INFO spawned: 'Chat-Start_00' with pid 1564
+2020-12-06 09:45:43,021 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:45:45,837 INFO spawned: 'Chat-Start_00' with pid 1574
+2020-12-06 09:45:46,150 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:45:49,343 INFO spawned: 'Chat-Start_00' with pid 1583
+2020-12-06 09:45:49,877 INFO exited: Chat-Start_00 (exit status 1; not expected)
+2020-12-06 09:45:50,879 INFO gave up: Chat-Start_00 entered FATAL state, too many start retries too quickly
+2020-12-06 09:46:20,364 WARN received SIGTERM indicating exit request
+2020-12-06 09:47:10,507 CRIT Supervisor running as root (no user in config file)
+2020-12-06 09:47:10,507 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-06 09:47:10,516 INFO RPC interface 'supervisor' initialized
+2020-12-06 09:47:10,517 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-06 09:47:10,517 INFO daemonizing the supervisord process
+2020-12-06 09:47:10,518 INFO supervisord started with pid 22
+2020-12-06 09:47:11,521 INFO spawned: 'Chat-Start_00' with pid 23
+2020-12-06 09:47:12,798 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-06 09:47:29,667 INFO waiting for Chat-Start_00 to die
+2020-12-06 09:47:29,688 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-06 09:47:42,444 CRIT Supervisor running as root (no user in config file)
+2020-12-06 09:47:42,445 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-06 09:47:42,453 INFO RPC interface 'supervisor' initialized
+2020-12-06 09:47:42,453 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-06 09:47:42,454 INFO daemonizing the supervisord process
+2020-12-06 09:47:42,454 INFO supervisord started with pid 56
+2020-12-06 09:47:43,457 INFO spawned: 'Chat-Start_00' with pid 57
+2020-12-06 09:47:44,789 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-06 09:48:05,972 INFO waiting for Chat-Start_00 to die
+2020-12-06 09:48:05,993 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-06 09:48:07,091 CRIT Supervisor running as root (no user in config file)
+2020-12-06 09:48:07,091 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-06 09:48:07,099 INFO RPC interface 'supervisor' initialized
+2020-12-06 09:48:07,100 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-06 09:48:07,100 INFO daemonizing the supervisord process
+2020-12-06 09:48:07,101 INFO supervisord started with pid 152
+2020-12-06 09:48:08,104 INFO spawned: 'Chat-Start_00' with pid 158
+2020-12-06 09:48:09,217 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-06 09:48:09,218 INFO waiting for Chat-Start_00 to die
+2020-12-06 09:48:09,241 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-06 09:48:09,245 CRIT Supervisor running as root (no user in config file)
+2020-12-06 09:48:09,245 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-06 09:48:09,246 INFO RPC interface 'supervisor' initialized
+2020-12-06 09:48:09,246 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-06 09:48:09,246 INFO supervisord started with pid 152
+2020-12-06 09:48:10,248 INFO spawned: 'Chat-Start_00' with pid 188
+2020-12-06 09:48:11,524 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-07 12:30:18,829 INFO waiting for Chat-Start_00 to die
+2020-12-07 12:30:18,888 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-07 12:30:19,955 CRIT Supervisor running as root (no user in config file)
+2020-12-07 12:30:19,955 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-07 12:30:19,964 INFO RPC interface 'supervisor' initialized
+2020-12-07 12:30:19,965 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-07 12:30:19,965 INFO daemonizing the supervisord process
+2020-12-07 12:30:19,966 INFO supervisord started with pid 374
+2020-12-07 12:30:20,969 INFO spawned: 'Chat-Start_00' with pid 380
+2020-12-07 12:30:22,057 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-07 12:30:22,058 INFO waiting for Chat-Start_00 to die
+2020-12-07 12:30:22,079 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-07 12:30:22,084 CRIT Supervisor running as root (no user in config file)
+2020-12-07 12:30:22,084 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-07 12:30:22,084 INFO RPC interface 'supervisor' initialized
+2020-12-07 12:30:22,084 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-07 12:30:22,084 INFO supervisord started with pid 374
+2020-12-07 12:30:23,087 INFO spawned: 'Chat-Start_00' with pid 410
+2020-12-07 12:30:24,353 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-07 13:26:25,763 INFO waiting for Chat-Start_00 to die
+2020-12-07 13:26:25,786 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-07 13:26:26,799 CRIT Supervisor running as root (no user in config file)
+2020-12-07 13:26:26,799 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-07 13:26:26,812 INFO RPC interface 'supervisor' initialized
+2020-12-07 13:26:26,812 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-07 13:26:26,813 INFO daemonizing the supervisord process
+2020-12-07 13:26:26,814 INFO supervisord started with pid 512
+2020-12-07 13:26:27,816 INFO spawned: 'Chat-Start_00' with pid 519
+2020-12-07 13:26:28,899 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-07 13:26:28,900 INFO waiting for Chat-Start_00 to die
+2020-12-07 13:26:28,923 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-07 13:26:28,928 CRIT Supervisor running as root (no user in config file)
+2020-12-07 13:26:28,928 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-07 13:26:28,928 INFO RPC interface 'supervisor' initialized
+2020-12-07 13:26:28,928 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-07 13:26:28,929 INFO supervisord started with pid 512
+2020-12-07 13:26:29,931 INFO spawned: 'Chat-Start_00' with pid 549
+2020-12-07 13:26:31,213 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-07 14:37:51,172 INFO waiting for Chat-Start_00 to die
+2020-12-07 14:37:51,221 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-07 14:37:52,310 CRIT Supervisor running as root (no user in config file)
+2020-12-07 14:37:52,311 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-07 14:37:52,324 INFO RPC interface 'supervisor' initialized
+2020-12-07 14:37:52,324 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-07 14:37:52,325 INFO daemonizing the supervisord process
+2020-12-07 14:37:52,327 INFO supervisord started with pid 666
+2020-12-07 14:37:53,329 INFO spawned: 'Chat-Start_00' with pid 667
+2020-12-07 14:37:54,704 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-07 14:37:54,921 INFO waiting for Chat-Start_00 to die
+2020-12-07 14:37:54,946 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-07 14:37:54,951 CRIT Supervisor running as root (no user in config file)
+2020-12-07 14:37:54,951 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-07 14:37:54,951 INFO RPC interface 'supervisor' initialized
+2020-12-07 14:37:54,951 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-07 14:37:54,952 INFO supervisord started with pid 666
+2020-12-07 14:37:55,955 INFO spawned: 'Chat-Start_00' with pid 702
+2020-12-07 14:37:57,235 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-13 12:39:08,844 INFO waiting for Chat-Start_00 to die
+2020-12-13 12:39:08,904 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-13 12:39:09,891 CRIT Supervisor running as root (no user in config file)
+2020-12-13 12:39:09,891 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-13 12:39:09,900 INFO RPC interface 'supervisor' initialized
+2020-12-13 12:39:09,900 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-13 12:39:09,900 INFO daemonizing the supervisord process
+2020-12-13 12:39:09,901 INFO supervisord started with pid 1315
+2020-12-13 12:39:10,904 INFO spawned: 'Chat-Start_00' with pid 1321
+2020-12-13 12:39:11,946 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-13 12:39:11,947 INFO waiting for Chat-Start_00 to die
+2020-12-13 12:39:11,968 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-13 12:39:11,972 CRIT Supervisor running as root (no user in config file)
+2020-12-13 12:39:11,972 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-13 12:39:11,972 INFO RPC interface 'supervisor' initialized
+2020-12-13 12:39:11,973 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-13 12:39:11,973 INFO supervisord started with pid 1315
+2020-12-13 12:39:12,975 INFO spawned: 'Chat-Start_00' with pid 1351
+2020-12-13 12:39:14,238 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-13 13:39:41,287 INFO waiting for Chat-Start_00 to die
+2020-12-13 13:39:41,309 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-13 13:39:42,302 CRIT Supervisor running as root (no user in config file)
+2020-12-13 13:39:42,302 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-13 13:39:42,311 INFO RPC interface 'supervisor' initialized
+2020-12-13 13:39:42,311 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-13 13:39:42,312 INFO daemonizing the supervisord process
+2020-12-13 13:39:42,313 INFO supervisord started with pid 1453
+2020-12-13 13:39:43,313 INFO spawned: 'Chat-Start_00' with pid 1459
+2020-12-13 13:39:44,333 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-13 13:39:44,334 INFO waiting for Chat-Start_00 to die
+2020-12-13 13:39:44,354 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-13 13:39:44,359 CRIT Supervisor running as root (no user in config file)
+2020-12-13 13:39:44,359 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-13 13:39:44,359 INFO RPC interface 'supervisor' initialized
+2020-12-13 13:39:44,359 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-13 13:39:44,360 INFO supervisord started with pid 1453
+2020-12-13 13:39:45,362 INFO spawned: 'Chat-Start_00' with pid 1489
+2020-12-13 13:39:46,628 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-13 16:18:52,370 INFO waiting for Chat-Start_00 to die
+2020-12-13 16:18:52,413 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-13 16:18:53,387 CRIT Supervisor running as root (no user in config file)
+2020-12-13 16:18:53,387 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-13 16:18:53,396 INFO RPC interface 'supervisor' initialized
+2020-12-13 16:18:53,396 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-13 16:18:53,396 INFO daemonizing the supervisord process
+2020-12-13 16:18:53,397 INFO supervisord started with pid 1612
+2020-12-13 16:18:54,400 INFO spawned: 'Chat-Start_00' with pid 1618
+2020-12-13 16:18:55,433 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-13 16:18:55,434 INFO waiting for Chat-Start_00 to die
+2020-12-13 16:18:55,455 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-13 16:18:55,460 CRIT Supervisor running as root (no user in config file)
+2020-12-13 16:18:55,460 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-13 16:18:55,460 INFO RPC interface 'supervisor' initialized
+2020-12-13 16:18:55,460 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-13 16:18:55,460 INFO supervisord started with pid 1612
+2020-12-13 16:18:56,463 INFO spawned: 'Chat-Start_00' with pid 1648
+2020-12-13 16:18:57,731 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 10:13:13,437 INFO waiting for Chat-Start_00 to die
+2020-12-14 10:13:14,456 CRIT Supervisor running as root (no user in config file)
+2020-12-14 10:13:14,456 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 10:13:14,458 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 10:13:14,770 INFO RPC interface 'supervisor' initialized
+2020-12-14 10:13:14,770 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 10:13:14,771 INFO daemonizing the supervisord process
+2020-12-14 10:13:14,772 INFO supervisord started with pid 1787
+2020-12-14 10:13:15,773 INFO spawned: 'Chat-Start_00' with pid 1793
+2020-12-14 10:13:16,897 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 10:13:16,898 INFO waiting for Chat-Start_00 to die
+2020-12-14 10:13:16,918 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 10:13:16,923 CRIT Supervisor running as root (no user in config file)
+2020-12-14 10:13:16,923 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 10:13:16,923 INFO RPC interface 'supervisor' initialized
+2020-12-14 10:13:16,923 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 10:13:16,923 INFO supervisord started with pid 1787
+2020-12-14 10:13:17,926 INFO spawned: 'Chat-Start_00' with pid 1823
+2020-12-14 10:13:19,190 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 11:19:30,493 INFO waiting for Chat-Start_00 to die
+2020-12-14 11:19:30,515 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 11:19:31,514 CRIT Supervisor running as root (no user in config file)
+2020-12-14 11:19:31,514 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 11:19:31,522 INFO RPC interface 'supervisor' initialized
+2020-12-14 11:19:31,522 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 11:19:31,523 INFO daemonizing the supervisord process
+2020-12-14 11:19:31,524 INFO supervisord started with pid 1940
+2020-12-14 11:19:32,526 INFO spawned: 'Chat-Start_00' with pid 1946
+2020-12-14 11:19:33,560 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 11:19:33,561 INFO waiting for Chat-Start_00 to die
+2020-12-14 11:19:33,583 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 11:19:33,587 CRIT Supervisor running as root (no user in config file)
+2020-12-14 11:19:33,587 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 11:19:33,588 INFO RPC interface 'supervisor' initialized
+2020-12-14 11:19:33,588 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 11:19:33,588 INFO supervisord started with pid 1940
+2020-12-14 11:19:34,590 INFO spawned: 'Chat-Start_00' with pid 1976
+2020-12-14 11:19:35,858 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 12:28:19,247 INFO waiting for Chat-Start_00 to die
+2020-12-14 12:28:19,411 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 12:28:20,391 CRIT Supervisor running as root (no user in config file)
+2020-12-14 12:28:20,392 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 12:28:20,401 INFO RPC interface 'supervisor' initialized
+2020-12-14 12:28:20,401 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 12:28:20,402 INFO daemonizing the supervisord process
+2020-12-14 12:28:20,403 INFO supervisord started with pid 2097
+2020-12-14 12:28:21,406 INFO spawned: 'Chat-Start_00' with pid 2103
+2020-12-14 12:28:22,463 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 12:28:22,464 INFO waiting for Chat-Start_00 to die
+2020-12-14 12:28:22,485 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 12:28:22,489 CRIT Supervisor running as root (no user in config file)
+2020-12-14 12:28:22,489 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 12:28:22,490 INFO RPC interface 'supervisor' initialized
+2020-12-14 12:28:22,490 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 12:28:22,490 INFO supervisord started with pid 2097
+2020-12-14 12:28:23,492 INFO spawned: 'Chat-Start_00' with pid 2133
+2020-12-14 12:28:24,761 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 14:49:03,464 INFO waiting for Chat-Start_00 to stop
+2020-12-14 14:49:03,534 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 14:49:03,538 INFO spawned: 'Chat-Start_00' with pid 2189
+2020-12-14 14:49:04,810 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 14:50:51,456 CRIT Supervisor running as root (no user in config file)
+2020-12-14 14:50:51,457 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 14:50:51,766 INFO RPC interface 'supervisor' initialized
+2020-12-14 14:50:51,766 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 14:50:51,767 INFO daemonizing the supervisord process
+2020-12-14 14:50:51,768 INFO supervisord started with pid 21
+2020-12-14 14:50:52,770 INFO spawned: 'Chat-Start_00' with pid 22
+2020-12-14 14:50:54,043 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 15:38:54,641 INFO waiting for Chat-Start_00 to die
+2020-12-14 15:38:54,721 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 15:38:55,684 CRIT Supervisor running as root (no user in config file)
+2020-12-14 15:38:55,684 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 15:38:55,693 INFO RPC interface 'supervisor' initialized
+2020-12-14 15:38:55,693 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 15:38:55,694 INFO daemonizing the supervisord process
+2020-12-14 15:38:55,694 INFO supervisord started with pid 119
+2020-12-14 15:38:56,697 INFO spawned: 'Chat-Start_00' with pid 125
+2020-12-14 15:38:57,741 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 15:38:57,742 INFO waiting for Chat-Start_00 to die
+2020-12-14 15:38:57,763 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 15:38:57,767 CRIT Supervisor running as root (no user in config file)
+2020-12-14 15:38:57,767 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 15:38:57,768 INFO RPC interface 'supervisor' initialized
+2020-12-14 15:38:57,768 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 15:38:57,768 INFO supervisord started with pid 119
+2020-12-14 15:38:58,770 INFO spawned: 'Chat-Start_00' with pid 155
+2020-12-14 15:39:00,041 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:20:51,748 INFO waiting for Chat-Start_00 to die
+2020-12-14 16:20:51,771 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 16:20:52,788 CRIT Supervisor running as root (no user in config file)
+2020-12-14 16:20:52,788 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 16:20:52,797 INFO RPC interface 'supervisor' initialized
+2020-12-14 16:20:52,797 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 16:20:52,798 INFO daemonizing the supervisord process
+2020-12-14 16:20:52,798 INFO supervisord started with pid 265
+2020-12-14 16:20:53,801 INFO spawned: 'Chat-Start_00' with pid 271
+2020-12-14 16:20:54,873 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:20:54,874 INFO waiting for Chat-Start_00 to die
+2020-12-14 16:20:54,896 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 16:20:54,901 CRIT Supervisor running as root (no user in config file)
+2020-12-14 16:20:54,901 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 16:20:54,901 INFO RPC interface 'supervisor' initialized
+2020-12-14 16:20:54,901 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 16:20:54,902 INFO supervisord started with pid 265
+2020-12-14 16:20:55,904 INFO spawned: 'Chat-Start_00' with pid 301
+2020-12-14 16:20:57,179 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:26:04,147 INFO waiting for Chat-Start_00 to die
+2020-12-14 16:26:04,171 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 16:26:04,176 CRIT Supervisor running as root (no user in config file)
+2020-12-14 16:26:04,176 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 16:26:04,176 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 16:26:04,176 INFO RPC interface 'supervisor' initialized
+2020-12-14 16:26:04,176 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 16:26:04,177 INFO supervisord started with pid 265
+2020-12-14 16:26:05,178 INFO spawned: 'Chat-Start_00' with pid 352
+2020-12-14 16:26:05,180 INFO spawned: 'Http-Start_00' with pid 353
+2020-12-14 16:26:06,457 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:26:06,458 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:27:22,922 CRIT Supervisor running as root (no user in config file)
+2020-12-14 16:27:22,923 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 16:27:22,923 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 16:27:22,932 INFO RPC interface 'supervisor' initialized
+2020-12-14 16:27:22,932 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 16:27:22,932 INFO daemonizing the supervisord process
+2020-12-14 16:27:22,933 INFO supervisord started with pid 20
+2020-12-14 16:27:23,937 INFO spawned: 'Chat-Start_00' with pid 21
+2020-12-14 16:27:23,939 INFO spawned: 'Http-Start_00' with pid 22
+2020-12-14 16:27:25,217 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:27:25,217 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:34:02,254 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 16:34:02,278 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 16:34:02,298 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 16:34:02,304 CRIT Supervisor running as root (no user in config file)
+2020-12-14 16:34:02,304 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 16:34:02,304 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 16:34:02,304 INFO RPC interface 'supervisor' initialized
+2020-12-14 16:34:02,304 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 16:34:02,305 INFO supervisord started with pid 20
+2020-12-14 16:34:03,307 INFO spawned: 'Chat-Start_00' with pid 84
+2020-12-14 16:34:03,309 INFO spawned: 'Http-Start_00' with pid 85
+2020-12-14 16:34:04,582 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:34:04,582 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:49:57,711 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 16:49:57,740 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 16:49:57,761 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 16:49:58,747 CRIT Supervisor running as root (no user in config file)
+2020-12-14 16:49:58,747 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 16:49:58,747 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 16:49:58,756 INFO RPC interface 'supervisor' initialized
+2020-12-14 16:49:58,756 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 16:49:58,756 INFO daemonizing the supervisord process
+2020-12-14 16:49:58,757 INFO supervisord started with pid 224
+2020-12-14 16:49:59,760 INFO spawned: 'Chat-Start_00' with pid 231
+2020-12-14 16:49:59,761 INFO spawned: 'Http-Start_00' with pid 232
+2020-12-14 16:50:00,861 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:50:00,861 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:50:00,861 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 16:50:00,883 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 16:50:00,905 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 16:50:00,910 CRIT Supervisor running as root (no user in config file)
+2020-12-14 16:50:00,910 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 16:50:00,910 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 16:50:00,910 INFO RPC interface 'supervisor' initialized
+2020-12-14 16:50:00,910 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 16:50:00,911 INFO supervisord started with pid 224
+2020-12-14 16:50:01,913 INFO spawned: 'Chat-Start_00' with pid 285
+2020-12-14 16:50:01,915 INFO spawned: 'Http-Start_00' with pid 286
+2020-12-14 16:50:03,186 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 16:50:03,186 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 18:15:27,991 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 18:15:28,021 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 18:15:28,043 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 18:15:29,028 CRIT Supervisor running as root (no user in config file)
+2020-12-14 18:15:29,029 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 18:15:29,029 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 18:15:29,037 INFO RPC interface 'supervisor' initialized
+2020-12-14 18:15:29,038 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 18:15:29,038 INFO daemonizing the supervisord process
+2020-12-14 18:15:29,039 INFO supervisord started with pid 419
+2020-12-14 18:15:30,042 INFO spawned: 'Chat-Start_00' with pid 425
+2020-12-14 18:15:30,043 INFO spawned: 'Http-Start_00' with pid 426
+2020-12-14 18:15:31,091 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 18:15:31,091 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 18:15:31,092 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 18:15:31,114 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 18:15:31,135 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 18:15:31,140 CRIT Supervisor running as root (no user in config file)
+2020-12-14 18:15:31,140 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 18:15:31,140 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 18:15:31,140 INFO RPC interface 'supervisor' initialized
+2020-12-14 18:15:31,140 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 18:15:31,141 INFO supervisord started with pid 419
+2020-12-14 18:15:32,143 INFO spawned: 'Chat-Start_00' with pid 479
+2020-12-14 18:15:32,144 INFO spawned: 'Http-Start_00' with pid 480
+2020-12-14 18:15:33,414 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 18:15:33,415 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 19:24:16,119 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 19:24:16,141 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 19:24:16,163 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 19:24:17,158 CRIT Supervisor running as root (no user in config file)
+2020-12-14 19:24:17,158 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 19:24:17,158 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 19:24:17,167 INFO RPC interface 'supervisor' initialized
+2020-12-14 19:24:17,167 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 19:24:17,168 INFO daemonizing the supervisord process
+2020-12-14 19:24:17,169 INFO supervisord started with pid 608
+2020-12-14 19:24:18,170 INFO spawned: 'Chat-Start_00' with pid 614
+2020-12-14 19:24:18,172 INFO spawned: 'Http-Start_00' with pid 615
+2020-12-14 19:24:19,228 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 19:24:19,228 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 19:24:19,229 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 19:24:19,251 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 19:24:19,273 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 19:24:19,278 CRIT Supervisor running as root (no user in config file)
+2020-12-14 19:24:19,278 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 19:24:19,278 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 19:24:19,279 INFO RPC interface 'supervisor' initialized
+2020-12-14 19:24:19,279 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 19:24:19,279 INFO supervisord started with pid 608
+2020-12-14 19:24:20,281 INFO spawned: 'Chat-Start_00' with pid 668
+2020-12-14 19:24:20,283 INFO spawned: 'Http-Start_00' with pid 669
+2020-12-14 19:24:21,556 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 19:24:21,556 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 19:46:56,574 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 19:46:56,595 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 19:46:56,618 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 19:46:57,605 CRIT Supervisor running as root (no user in config file)
+2020-12-14 19:46:57,605 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 19:46:57,605 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 19:46:57,613 INFO RPC interface 'supervisor' initialized
+2020-12-14 19:46:57,613 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 19:46:57,614 INFO daemonizing the supervisord process
+2020-12-14 19:46:57,615 INFO supervisord started with pid 792
+2020-12-14 19:46:58,616 INFO spawned: 'Chat-Start_00' with pid 798
+2020-12-14 19:46:58,618 INFO spawned: 'Http-Start_00' with pid 799
+2020-12-14 19:46:59,643 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 19:46:59,643 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 19:46:59,644 INFO waiting for Chat-Start_00, Http-Start_00 to die
+2020-12-14 19:46:59,665 INFO stopped: Http-Start_00 (exit status 0)
+2020-12-14 19:46:59,687 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-14 19:46:59,692 CRIT Supervisor running as root (no user in config file)
+2020-12-14 19:46:59,692 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-14 19:46:59,692 INFO Included extra file "/etc/supervisor/conf.d/httpstart.conf" during parsing
+2020-12-14 19:46:59,693 INFO RPC interface 'supervisor' initialized
+2020-12-14 19:46:59,693 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-14 19:46:59,693 INFO supervisord started with pid 792
+2020-12-14 19:47:00,695 INFO spawned: 'Chat-Start_00' with pid 852
+2020-12-14 19:47:00,697 INFO spawned: 'Http-Start_00' with pid 853
+2020-12-14 19:47:01,969 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-14 19:47:01,969 INFO success: Http-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 12:10:10,893 CRIT Supervisor running as root (no user in config file)
+2020-12-16 12:10:10,893 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 12:10:10,902 INFO RPC interface 'supervisor' initialized
+2020-12-16 12:10:10,902 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 12:10:10,903 INFO daemonizing the supervisord process
+2020-12-16 12:10:10,904 INFO supervisord started with pid 22
+2020-12-16 12:10:11,907 INFO spawned: 'Chat-Start_00' with pid 23
+2020-12-16 12:10:13,193 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 12:54:55,252 INFO waiting for Chat-Start_00 to die
+2020-12-16 12:54:55,272 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 12:54:56,285 CRIT Supervisor running as root (no user in config file)
+2020-12-16 12:54:56,285 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 12:54:56,293 INFO RPC interface 'supervisor' initialized
+2020-12-16 12:54:56,293 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 12:54:56,294 INFO daemonizing the supervisord process
+2020-12-16 12:54:56,295 INFO supervisord started with pid 384
+2020-12-16 12:54:57,297 INFO spawned: 'Chat-Start_00' with pid 390
+2020-12-16 12:54:58,343 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 12:54:58,344 INFO waiting for Chat-Start_00 to die
+2020-12-16 12:54:58,364 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 12:54:58,369 CRIT Supervisor running as root (no user in config file)
+2020-12-16 12:54:58,369 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 12:54:58,369 INFO RPC interface 'supervisor' initialized
+2020-12-16 12:54:58,369 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 12:54:58,369 INFO supervisord started with pid 384
+2020-12-16 12:54:59,372 INFO spawned: 'Chat-Start_00' with pid 420
+2020-12-16 12:55:00,644 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 13:55:13,477 INFO waiting for Chat-Start_00 to die
+2020-12-16 13:55:13,499 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 13:55:14,530 CRIT Supervisor running as root (no user in config file)
+2020-12-16 13:55:14,530 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 13:55:14,539 INFO RPC interface 'supervisor' initialized
+2020-12-16 13:55:14,539 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 13:55:14,539 INFO daemonizing the supervisord process
+2020-12-16 13:55:14,540 INFO supervisord started with pid 521
+2020-12-16 13:55:15,543 INFO spawned: 'Chat-Start_00' with pid 527
+2020-12-16 13:55:16,610 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 13:55:16,611 INFO waiting for Chat-Start_00 to die
+2020-12-16 13:55:16,632 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 13:55:16,636 CRIT Supervisor running as root (no user in config file)
+2020-12-16 13:55:16,636 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 13:55:16,637 INFO RPC interface 'supervisor' initialized
+2020-12-16 13:55:16,637 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 13:55:16,637 INFO supervisord started with pid 521
+2020-12-16 13:55:17,639 INFO spawned: 'Chat-Start_00' with pid 557
+2020-12-16 13:55:18,912 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 14:34:56,289 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:34:56,330 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 14:34:57,334 CRIT Supervisor running as root (no user in config file)
+2020-12-16 14:34:57,334 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 14:34:57,343 INFO RPC interface 'supervisor' initialized
+2020-12-16 14:34:57,343 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 14:34:57,344 INFO daemonizing the supervisord process
+2020-12-16 14:34:57,344 INFO supervisord started with pid 664
+2020-12-16 14:34:58,347 INFO spawned: 'Chat-Start_00' with pid 670
+2020-12-16 14:34:59,419 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 14:34:59,419 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:34:59,452 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 14:34:59,456 CRIT Supervisor running as root (no user in config file)
+2020-12-16 14:34:59,456 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 14:34:59,457 INFO RPC interface 'supervisor' initialized
+2020-12-16 14:34:59,457 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 14:34:59,457 INFO supervisord started with pid 664
+2020-12-16 14:35:00,459 INFO spawned: 'Chat-Start_00' with pid 700
+2020-12-16 14:35:01,735 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 14:44:23,620 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:24,656 CRIT Supervisor running as root (no user in config file)
+2020-12-16 14:44:24,657 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 14:44:24,680 ERRO Web interface error:Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/usr/lib/python2.7/dist-packages/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/usr/lib/python2.7/dist-packages/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/usr/lib/python2.7/dist-packages/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/usr/lib/python2.7/dist-packages/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2020-12-16 14:44:26,683 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:29,686 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:32,690 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:35,694 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:38,697 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:41,701 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:44,705 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:47,708 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:50,711 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:53,714 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:56,718 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:44:59,722 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:02,725 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:05,729 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:08,733 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:11,736 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:14,740 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:17,744 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:20,747 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:23,751 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:26,755 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:29,758 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:32,762 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:35,765 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:38,769 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:41,773 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:45:41,815 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 14:45:58,411 CRIT Supervisor running as root (no user in config file)
+2020-12-16 14:45:58,411 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 14:45:58,419 INFO RPC interface 'supervisor' initialized
+2020-12-16 14:45:58,420 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 14:45:58,420 INFO daemonizing the supervisord process
+2020-12-16 14:45:58,421 INFO supervisord started with pid 881
+2020-12-16 14:45:59,424 INFO spawned: 'Chat-Start_00' with pid 887
+2020-12-16 14:46:00,484 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 14:46:00,485 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:46:00,507 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 14:46:00,511 CRIT Supervisor running as root (no user in config file)
+2020-12-16 14:46:00,511 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 14:46:00,512 INFO RPC interface 'supervisor' initialized
+2020-12-16 14:46:00,512 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 14:46:00,512 INFO supervisord started with pid 881
+2020-12-16 14:46:01,514 INFO spawned: 'Chat-Start_00' with pid 918
+2020-12-16 14:46:02,791 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 14:58:14,300 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:58:14,324 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 14:58:15,352 CRIT Supervisor running as root (no user in config file)
+2020-12-16 14:58:15,352 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 14:58:15,361 INFO RPC interface 'supervisor' initialized
+2020-12-16 14:58:15,361 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 14:58:15,361 INFO daemonizing the supervisord process
+2020-12-16 14:58:15,362 INFO supervisord started with pid 1020
+2020-12-16 14:58:16,364 INFO spawned: 'Chat-Start_00' with pid 1026
+2020-12-16 14:58:17,645 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 14:58:17,914 INFO waiting for Chat-Start_00 to die
+2020-12-16 14:58:17,936 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 14:58:17,941 CRIT Supervisor running as root (no user in config file)
+2020-12-16 14:58:17,941 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 14:58:17,941 INFO RPC interface 'supervisor' initialized
+2020-12-16 14:58:17,942 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 14:58:17,942 INFO supervisord started with pid 1020
+2020-12-16 14:58:18,944 INFO spawned: 'Chat-Start_00' with pid 1056
+2020-12-16 14:58:20,416 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 15:05:50,422 INFO waiting for Chat-Start_00 to die
+2020-12-16 15:05:51,446 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 15:05:51,497 CRIT Supervisor running as root (no user in config file)
+2020-12-16 15:05:51,497 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 15:05:51,506 INFO RPC interface 'supervisor' initialized
+2020-12-16 15:05:51,506 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 15:05:51,507 INFO daemonizing the supervisord process
+2020-12-16 15:05:51,508 INFO supervisord started with pid 1160
+2020-12-16 15:05:52,510 INFO spawned: 'Chat-Start_00' with pid 1166
+2020-12-16 15:05:53,590 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-16 15:05:53,591 INFO waiting for Chat-Start_00 to die
+2020-12-16 15:05:53,624 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-16 15:05:53,628 CRIT Supervisor running as root (no user in config file)
+2020-12-16 15:05:53,628 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-16 15:05:53,629 INFO RPC interface 'supervisor' initialized
+2020-12-16 15:05:53,629 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-16 15:05:53,629 INFO supervisord started with pid 1160
+2020-12-16 15:05:54,631 INFO spawned: 'Chat-Start_00' with pid 1196
+2020-12-16 15:05:55,914 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-17 14:30:11,210 INFO waiting for Chat-Start_00 to die
+2020-12-17 14:30:11,254 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-17 14:30:12,262 CRIT Supervisor running as root (no user in config file)
+2020-12-17 14:30:12,262 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-17 14:30:12,271 INFO RPC interface 'supervisor' initialized
+2020-12-17 14:30:12,271 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-17 14:30:12,272 INFO daemonizing the supervisord process
+2020-12-17 14:30:12,272 INFO supervisord started with pid 1339
+2020-12-17 14:30:13,275 INFO spawned: 'Chat-Start_00' with pid 1345
+2020-12-17 14:30:14,320 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-17 14:30:14,321 INFO waiting for Chat-Start_00 to die
+2020-12-17 14:30:14,358 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-17 14:30:14,362 CRIT Supervisor running as root (no user in config file)
+2020-12-17 14:30:14,362 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-17 14:30:14,363 INFO RPC interface 'supervisor' initialized
+2020-12-17 14:30:14,363 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-17 14:30:14,363 INFO supervisord started with pid 1339
+2020-12-17 14:30:15,365 INFO spawned: 'Chat-Start_00' with pid 1375
+2020-12-17 14:30:16,638 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-17 14:45:44,592 INFO waiting for Chat-Start_00 to die
+2020-12-17 14:45:44,637 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-17 14:45:45,634 CRIT Supervisor running as root (no user in config file)
+2020-12-17 14:45:45,634 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-17 14:45:45,643 INFO RPC interface 'supervisor' initialized
+2020-12-17 14:45:45,643 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-17 14:45:45,643 INFO daemonizing the supervisord process
+2020-12-17 14:45:45,644 INFO supervisord started with pid 1475
+2020-12-17 14:45:46,647 INFO spawned: 'Chat-Start_00' with pid 1481
+2020-12-17 14:45:47,739 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-17 14:45:47,739 INFO waiting for Chat-Start_00 to die
+2020-12-17 14:45:47,774 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-17 14:45:47,779 CRIT Supervisor running as root (no user in config file)
+2020-12-17 14:45:47,779 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-17 14:45:47,780 INFO RPC interface 'supervisor' initialized
+2020-12-17 14:45:47,780 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-17 14:45:47,780 INFO supervisord started with pid 1475
+2020-12-17 14:45:48,782 INFO spawned: 'Chat-Start_00' with pid 1507
+2020-12-17 14:45:50,063 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-23 12:02:22,717 INFO waiting for Chat-Start_00 to die
+2020-12-23 12:02:22,754 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-23 12:02:23,768 CRIT Supervisor running as root (no user in config file)
+2020-12-23 12:02:23,768 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-23 12:02:23,777 INFO RPC interface 'supervisor' initialized
+2020-12-23 12:02:23,777 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-23 12:02:23,778 INFO daemonizing the supervisord process
+2020-12-23 12:02:23,779 INFO supervisord started with pid 2784
+2020-12-23 12:02:24,781 INFO spawned: 'Chat-Start_00' with pid 2790
+2020-12-23 12:02:25,896 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-23 12:02:25,897 INFO waiting for Chat-Start_00 to die
+2020-12-23 12:02:25,915 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-23 12:02:25,920 CRIT Supervisor running as root (no user in config file)
+2020-12-23 12:02:25,920 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-23 12:02:25,920 INFO RPC interface 'supervisor' initialized
+2020-12-23 12:02:25,921 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-23 12:02:25,921 INFO supervisord started with pid 2784
+2020-12-23 12:02:26,923 INFO spawned: 'Chat-Start_00' with pid 2816
+2020-12-23 12:02:28,200 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-23 14:54:57,144 CRIT Supervisor running as root (no user in config file)
+2020-12-23 14:54:57,148 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-23 14:54:57,157 INFO RPC interface 'supervisor' initialized
+2020-12-23 14:54:57,157 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-23 14:54:57,158 INFO daemonizing the supervisord process
+2020-12-23 14:54:57,159 INFO supervisord started with pid 23
+2020-12-23 14:54:58,162 INFO spawned: 'Chat-Start_00' with pid 24
+2020-12-23 14:54:59,163 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-23 15:17:29,058 CRIT Supervisor running as root (no user in config file)
+2020-12-23 15:17:29,058 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-23 15:17:29,070 INFO RPC interface 'supervisor' initialized
+2020-12-23 15:17:29,070 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-23 15:17:29,070 INFO daemonizing the supervisord process
+2020-12-23 15:17:29,071 INFO supervisord started with pid 139
+2020-12-23 15:17:30,074 INFO spawned: 'Chat-Start_00' with pid 140
+2020-12-23 15:17:31,397 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-23 15:25:15,683 CRIT Supervisor running as root (no user in config file)
+2020-12-23 15:25:15,683 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-23 15:25:15,692 INFO RPC interface 'supervisor' initialized
+2020-12-23 15:25:15,692 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-23 15:25:15,692 INFO daemonizing the supervisord process
+2020-12-23 15:25:15,693 INFO supervisord started with pid 30
+2020-12-23 15:25:16,696 INFO spawned: 'Chat-Start_00' with pid 31
+2020-12-23 15:25:17,958 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-23 19:30:17,967 INFO waiting for Chat-Start_00 to die
+2020-12-23 19:30:18,045 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-23 19:30:18,050 CRIT Supervisor running as root (no user in config file)
+2020-12-23 19:30:18,050 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-23 19:30:18,051 INFO RPC interface 'supervisor' initialized
+2020-12-23 19:30:18,051 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-23 19:30:18,052 INFO supervisord started with pid 30
+2020-12-23 19:30:19,054 INFO spawned: 'Chat-Start_00' with pid 7760
+2020-12-23 19:30:20,927 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-28 09:55:45,329 INFO waiting for Chat-Start_00 to die
+2020-12-28 09:55:45,383 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-28 09:55:46,378 CRIT Supervisor running as root (no user in config file)
+2020-12-28 09:55:46,378 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 09:55:46,389 INFO RPC interface 'supervisor' initialized
+2020-12-28 09:55:46,389 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 09:55:46,390 INFO daemonizing the supervisord process
+2020-12-28 09:55:46,391 INFO supervisord started with pid 14526
+2020-12-28 09:55:47,373 INFO spawned: 'Chat-Start_00' with pid 14533
+2020-12-28 09:55:48,348 INFO waiting for Chat-Start_00 to die
+2020-12-28 09:55:48,399 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-28 09:55:48,408 CRIT Supervisor running as root (no user in config file)
+2020-12-28 09:55:48,408 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 09:55:48,409 INFO RPC interface 'supervisor' initialized
+2020-12-28 09:55:48,409 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 09:55:48,409 INFO supervisord started with pid 14526
+2020-12-28 09:55:49,412 INFO spawned: 'Chat-Start_00' with pid 14561
+2020-12-28 09:55:50,710 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-28 12:16:35,615 INFO waiting for Chat-Start_00 to die
+2020-12-28 12:16:35,673 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-28 12:16:36,724 CRIT Supervisor running as root (no user in config file)
+2020-12-28 12:16:36,724 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 12:16:36,736 INFO RPC interface 'supervisor' initialized
+2020-12-28 12:16:36,736 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 12:16:36,737 INFO daemonizing the supervisord process
+2020-12-28 12:16:36,738 INFO supervisord started with pid 14722
+2020-12-28 12:16:37,740 INFO spawned: 'Chat-Start_00' with pid 14730
+2020-12-28 12:16:38,891 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-28 12:16:38,892 INFO waiting for Chat-Start_00 to die
+2020-12-28 12:16:38,968 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-28 12:16:38,974 CRIT Supervisor running as root (no user in config file)
+2020-12-28 12:16:38,974 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 12:16:38,975 INFO RPC interface 'supervisor' initialized
+2020-12-28 12:16:38,975 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 12:16:38,975 INFO supervisord started with pid 14722
+2020-12-28 12:16:39,978 INFO spawned: 'Chat-Start_00' with pid 14757
+2020-12-28 12:16:41,275 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-28 13:56:53,347 INFO waiting for Chat-Start_00 to die
+2020-12-28 13:56:53,393 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-28 13:56:54,371 CRIT Supervisor running as root (no user in config file)
+2020-12-28 13:56:54,371 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 13:56:54,381 INFO RPC interface 'supervisor' initialized
+2020-12-28 13:56:54,381 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 13:56:54,383 INFO daemonizing the supervisord process
+2020-12-28 13:56:54,383 INFO supervisord started with pid 14878
+2020-12-28 13:56:55,269 INFO spawned: 'Chat-Start_00' with pid 14886
+2020-12-28 13:56:56,225 INFO waiting for Chat-Start_00 to die
+2020-12-28 13:56:56,257 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-28 13:56:56,262 CRIT Supervisor running as root (no user in config file)
+2020-12-28 13:56:56,263 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 13:56:56,263 INFO RPC interface 'supervisor' initialized
+2020-12-28 13:56:56,263 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 13:56:56,263 INFO supervisord started with pid 14878
+2020-12-28 13:56:57,266 INFO spawned: 'Chat-Start_00' with pid 14914
+2020-12-28 13:56:58,535 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-28 14:46:32,479 INFO waiting for Chat-Start_00 to die
+2020-12-28 14:46:32,546 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-28 14:46:33,465 CRIT Supervisor running as root (no user in config file)
+2020-12-28 14:46:33,465 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 14:46:33,475 INFO RPC interface 'supervisor' initialized
+2020-12-28 14:46:33,475 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 14:46:33,476 INFO daemonizing the supervisord process
+2020-12-28 14:46:33,477 INFO supervisord started with pid 15031
+2020-12-28 14:46:34,447 INFO spawned: 'Chat-Start_00' with pid 15039
+2020-12-28 14:46:35,398 INFO waiting for Chat-Start_00 to die
+2020-12-28 14:46:35,481 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-28 14:46:35,485 CRIT Supervisor running as root (no user in config file)
+2020-12-28 14:46:35,485 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 14:46:35,486 INFO RPC interface 'supervisor' initialized
+2020-12-28 14:46:35,486 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 14:46:35,486 INFO supervisord started with pid 15031
+2020-12-28 14:46:36,489 INFO spawned: 'Chat-Start_00' with pid 15066
+2020-12-28 14:46:37,742 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-28 16:28:32,137 CRIT Supervisor running as root (no user in config file)
+2020-12-28 16:28:32,137 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-28 16:28:32,146 INFO RPC interface 'supervisor' initialized
+2020-12-28 16:28:32,146 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-28 16:28:32,147 INFO daemonizing the supervisord process
+2020-12-28 16:28:32,147 INFO supervisord started with pid 24
+2020-12-28 16:28:33,150 INFO spawned: 'Chat-Start_00' with pid 25
+2020-12-28 16:28:34,414 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-29 15:26:56,727 INFO waiting for Chat-Start_00 to die
+2020-12-29 15:26:56,762 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-29 15:26:57,764 CRIT Supervisor running as root (no user in config file)
+2020-12-29 15:26:57,764 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-29 15:26:57,771 INFO RPC interface 'supervisor' initialized
+2020-12-29 15:26:57,772 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-29 15:26:57,772 INFO daemonizing the supervisord process
+2020-12-29 15:26:57,773 INFO supervisord started with pid 233
+2020-12-29 15:26:58,775 INFO spawned: 'Chat-Start_00' with pid 241
+2020-12-29 15:26:59,801 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-29 15:26:59,802 INFO waiting for Chat-Start_00 to die
+2020-12-29 15:26:59,848 INFO stopped: Chat-Start_00 (exit status 0)
+2020-12-29 15:26:59,853 CRIT Supervisor running as root (no user in config file)
+2020-12-29 15:26:59,853 INFO Included extra file "/etc/supervisor/conf.d/chat.conf" during parsing
+2020-12-29 15:26:59,853 INFO RPC interface 'supervisor' initialized
+2020-12-29 15:26:59,853 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-29 15:26:59,854 INFO supervisord started with pid 233
+2020-12-29 15:27:00,856 INFO spawned: 'Chat-Start_00' with pid 268
+2020-12-29 15:27:02,139 INFO success: Chat-Start_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-31 11:38:26,593 CRIT Supervisor running as root (no user in config file)
+2020-12-31 11:38:26,597 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-12-31 11:38:26,607 INFO RPC interface 'supervisor' initialized
+2020-12-31 11:38:26,607 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-31 11:38:26,608 INFO daemonizing the supervisord process
+2020-12-31 11:38:26,609 INFO supervisord started with pid 161
+2020-12-31 11:38:28,561 CRIT Supervisor running as root (no user in config file)
+2020-12-31 11:38:28,561 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-12-31 11:38:28,561 INFO RPC interface 'supervisor' initialized
+2020-12-31 11:38:28,562 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-31 11:38:28,562 INFO supervisord started with pid 161
+2020-12-31 11:41:53,120 CRIT Supervisor running as root (no user in config file)
+2020-12-31 11:41:53,121 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-12-31 11:41:53,129 INFO RPC interface 'supervisor' initialized
+2020-12-31 11:41:53,129 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-31 11:41:53,130 INFO daemonizing the supervisord process
+2020-12-31 11:41:53,131 INFO supervisord started with pid 258
+2020-12-31 11:41:55,056 CRIT Supervisor running as root (no user in config file)
+2020-12-31 11:41:55,056 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-12-31 11:41:55,056 INFO RPC interface 'supervisor' initialized
+2020-12-31 11:41:55,056 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-31 11:41:55,057 INFO supervisord started with pid 258
+2020-12-31 11:42:44,827 CRIT Supervisor running as root (no user in config file)
+2020-12-31 11:42:44,827 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-12-31 11:42:44,835 INFO RPC interface 'supervisor' initialized
+2020-12-31 11:42:44,835 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-31 11:42:44,837 INFO daemonizing the supervisord process
+2020-12-31 11:42:44,838 INFO supervisord started with pid 355
+2020-12-31 11:42:46,729 CRIT Supervisor running as root (no user in config file)
+2020-12-31 11:42:46,729 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-12-31 11:42:46,730 INFO RPC interface 'supervisor' initialized
+2020-12-31 11:42:46,730 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-12-31 11:42:46,730 INFO supervisord started with pid 355
+2021-01-06 20:10:37,631 CRIT Supervisor running as root (no user in config file)
+2021-01-06 20:10:37,646 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-01-06 20:10:37,654 INFO RPC interface 'supervisor' initialized
+2021-01-06 20:10:37,654 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-06 20:10:37,655 INFO daemonizing the supervisord process
+2021-01-06 20:10:37,656 INFO supervisord started with pid 541
+2021-01-06 20:10:39,518 CRIT Supervisor running as root (no user in config file)
+2021-01-06 20:10:39,518 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-01-06 20:10:39,518 INFO RPC interface 'supervisor' initialized
+2021-01-06 20:10:39,518 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-06 20:10:39,518 INFO supervisord started with pid 541
+2021-01-25 15:45:56,587 CRIT Supervisor running as root (no user in config file)
+2021-01-25 15:45:56,605 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 15:45:56,605 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 15:45:56,615 INFO RPC interface 'supervisor' initialized
+2021-01-25 15:45:56,616 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 15:45:56,616 INFO daemonizing the supervisord process
+2021-01-25 15:45:56,617 INFO supervisord started with pid 23
+2021-01-25 15:45:57,620 INFO spawned: 'OTP_00' with pid 24
+2021-01-25 15:45:57,622 INFO spawned: 'Confirm-Mobile_00' with pid 25
+2021-01-25 15:45:58,624 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:45:58,624 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:51:54,650 CRIT Supervisor running as root (no user in config file)
+2021-01-25 15:51:54,650 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 15:51:54,650 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 15:51:54,799 INFO exited: Confirm-Mobile_00 (exit status 0; expected)
+2021-01-25 15:51:54,825 INFO spawned: 'Confirm-Mobile_00' with pid 172
+2021-01-25 15:51:54,825 INFO exited: OTP_00 (exit status 0; expected)
+2021-01-25 15:51:55,828 INFO spawned: 'OTP_00' with pid 179
+2021-01-25 15:51:55,828 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:51:56,830 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:54:30,986 INFO exited: Confirm-Mobile_00 (exit status 0; expected)
+2021-01-25 15:54:38,047 CRIT Supervisor running as root (no user in config file)
+2021-01-25 15:54:38,047 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 15:54:38,047 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 15:54:38,060 INFO RPC interface 'supervisor' initialized
+2021-01-25 15:54:38,060 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 15:54:38,061 INFO daemonizing the supervisord process
+2021-01-25 15:54:38,062 INFO supervisord started with pid 18
+2021-01-25 15:54:38,993 INFO spawned: 'OTP_00' with pid 25
+2021-01-25 15:54:38,994 INFO spawned: 'Confirm-Mobile_00' with pid 26
+2021-01-25 15:54:40,000 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:54:40,001 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:54:40,188 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 15:54:40,197 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-25 15:54:40,206 INFO stopped: OTP_00 (exit status 0)
+2021-01-25 15:54:40,211 CRIT Supervisor running as root (no user in config file)
+2021-01-25 15:54:40,211 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 15:54:40,211 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 15:54:40,211 INFO RPC interface 'supervisor' initialized
+2021-01-25 15:54:40,211 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 15:54:40,211 INFO supervisord started with pid 18
+2021-01-25 15:54:41,214 INFO spawned: 'OTP_00' with pid 45
+2021-01-25 15:54:41,216 INFO spawned: 'Confirm-Mobile_00' with pid 46
+2021-01-25 15:54:42,218 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:54:42,218 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:55:50,342 CRIT Supervisor running as root (no user in config file)
+2021-01-25 15:55:50,342 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 15:55:50,342 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 15:55:50,350 INFO RPC interface 'supervisor' initialized
+2021-01-25 15:55:50,351 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 15:55:50,351 INFO daemonizing the supervisord process
+2021-01-25 15:55:50,352 INFO supervisord started with pid 18
+2021-01-25 15:55:51,263 INFO spawned: 'OTP_00' with pid 26
+2021-01-25 15:55:51,264 INFO spawned: 'Confirm-Mobile_00' with pid 27
+2021-01-25 15:55:52,271 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:55:52,272 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:55:52,469 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 15:55:52,478 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-25 15:55:52,489 INFO stopped: OTP_00 (exit status 0)
+2021-01-25 15:55:52,494 CRIT Supervisor running as root (no user in config file)
+2021-01-25 15:55:52,494 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 15:55:52,494 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 15:55:52,494 INFO RPC interface 'supervisor' initialized
+2021-01-25 15:55:52,494 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 15:55:52,495 INFO supervisord started with pid 18
+2021-01-25 15:55:53,497 INFO spawned: 'OTP_00' with pid 47
+2021-01-25 15:55:53,498 INFO spawned: 'Confirm-Mobile_00' with pid 48
+2021-01-25 15:55:54,499 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 15:55:54,500 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 16:05:17,710 INFO exited: OTP_00 (exit status 0; expected)
+2021-01-25 16:05:17,712 INFO spawned: 'OTP_00' with pid 115
+2021-01-25 16:05:17,712 INFO exited: Confirm-Mobile_00 (exit status 0; expected)
+2021-01-25 16:05:25,513 CRIT Supervisor running as root (no user in config file)
+2021-01-25 16:05:25,513 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 16:05:25,513 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 16:05:25,521 INFO RPC interface 'supervisor' initialized
+2021-01-25 16:05:25,521 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 16:05:25,522 INFO daemonizing the supervisord process
+2021-01-25 16:05:25,523 INFO supervisord started with pid 18
+2021-01-25 16:05:26,519 INFO spawned: 'OTP_00' with pid 26
+2021-01-25 16:05:26,521 INFO spawned: 'Confirm-Mobile_00' with pid 27
+2021-01-25 16:05:27,541 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 16:05:27,541 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 16:05:27,721 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 16:05:27,730 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-25 16:05:27,743 INFO stopped: OTP_00 (exit status 0)
+2021-01-25 16:05:27,751 CRIT Supervisor running as root (no user in config file)
+2021-01-25 16:05:27,751 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 16:05:27,751 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 16:05:27,751 INFO RPC interface 'supervisor' initialized
+2021-01-25 16:05:27,751 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 16:05:27,751 INFO supervisord started with pid 18
+2021-01-25 16:05:28,754 INFO spawned: 'OTP_00' with pid 47
+2021-01-25 16:05:28,756 INFO spawned: 'Confirm-Mobile_00' with pid 48
+2021-01-25 16:05:29,758 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 16:05:29,758 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 16:57:44,341 INFO exited: OTP_00 (exit status 0; expected)
+2021-01-25 16:57:44,341 INFO exited: Confirm-Mobile_00 (exit status 0; expected)
+2021-01-25 16:57:44,343 INFO spawned: 'OTP_00' with pid 120
+2021-01-25 16:57:44,344 INFO spawned: 'Confirm-Mobile_00' with pid 121
+2021-01-25 16:57:51,234 CRIT Supervisor running as root (no user in config file)
+2021-01-25 16:57:51,234 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 16:57:51,234 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 16:57:51,245 INFO RPC interface 'supervisor' initialized
+2021-01-25 16:57:51,245 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 16:57:51,246 INFO daemonizing the supervisord process
+2021-01-25 16:57:51,247 INFO supervisord started with pid 17
+2021-01-25 16:57:52,247 INFO spawned: 'OTP_00' with pid 25
+2021-01-25 16:57:52,249 INFO spawned: 'Confirm-Mobile_00' with pid 26
+2021-01-25 16:57:53,257 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 16:57:53,258 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 16:57:53,595 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 16:57:53,603 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-25 16:57:53,612 INFO stopped: OTP_00 (exit status 0)
+2021-01-25 16:57:53,618 CRIT Supervisor running as root (no user in config file)
+2021-01-25 16:57:53,618 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 16:57:53,618 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 16:57:53,618 INFO RPC interface 'supervisor' initialized
+2021-01-25 16:57:53,618 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 16:57:53,619 INFO supervisord started with pid 17
+2021-01-25 16:57:54,621 INFO spawned: 'OTP_00' with pid 46
+2021-01-25 16:57:54,623 INFO spawned: 'Confirm-Mobile_00' with pid 47
+2021-01-25 16:57:55,625 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 16:57:55,625 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 18:47:03,349 CRIT Supervisor running as root (no user in config file)
+2021-01-25 18:47:03,349 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 18:47:03,349 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 18:47:03,359 INFO RPC interface 'supervisor' initialized
+2021-01-25 18:47:03,360 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 18:47:03,360 INFO daemonizing the supervisord process
+2021-01-25 18:47:03,361 INFO supervisord started with pid 17
+2021-01-25 18:47:04,364 INFO spawned: 'OTP_00' with pid 18
+2021-01-25 18:47:04,365 INFO spawned: 'Confirm-Mobile_00' with pid 19
+2021-01-25 18:47:04,366 WARN received SIGHUP indicating restart request
+2021-01-25 18:47:04,366 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:05,367 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 18:47:07,369 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:10,373 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:13,543 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:16,547 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:19,550 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:22,554 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:25,557 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:28,559 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:31,562 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:34,186 CRIT Supervisor running as root (no user in config file)
+2021-01-25 18:47:34,186 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 18:47:34,186 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 18:47:34,216 ERRO Web interface error:Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/supervisor/web.py", line 45, in more
+    response = self.callback()
+  File "/usr/lib/python2.7/dist-packages/supervisor/web.py", line 162, in __call__
+    body = self.render()
+  File "/usr/lib/python2.7/dist-packages/supervisor/web.py", line 490, in render
+    info = rpcinterface.supervisor.getProcessInfo(sent_name)
+  File "/usr/lib/python2.7/dist-packages/supervisor/rpcinterface.py", line 594, in getProcessInfo
+    self._update('getProcessInfo')
+  File "/usr/lib/python2.7/dist-packages/supervisor/rpcinterface.py", line 47, in _update
+    raise RPCError(Faults.SHUTDOWN_STATE)
+RPCError: code=6, text='SHUTDOWN_STATE'
+2021-01-25 18:47:35,217 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:38,221 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:41,225 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:44,228 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:47,583 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:50,587 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:53,817 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:56,821 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:47:59,825 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 18:48:26,122 CRIT Supervisor running as root (no user in config file)
+2021-01-25 18:48:26,122 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 18:48:26,122 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 18:48:26,130 INFO RPC interface 'supervisor' initialized
+2021-01-25 18:48:26,130 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 18:48:26,131 INFO daemonizing the supervisord process
+2021-01-25 18:48:26,131 INFO supervisord started with pid 24
+2021-01-25 18:48:27,134 INFO spawned: 'OTP_00' with pid 25
+2021-01-25 18:48:27,136 INFO spawned: 'Confirm-Mobile_00' with pid 26
+2021-01-25 18:48:29,041 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 18:48:29,041 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:13:54,480 INFO exited: OTP_00 (exit status 0; expected)
+2021-01-25 19:13:54,486 INFO spawned: 'OTP_00' with pid 96
+2021-01-25 19:13:54,486 INFO exited: Confirm-Mobile_00 (exit status 0; expected)
+2021-01-25 19:13:55,487 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:13:55,489 INFO spawned: 'Confirm-Mobile_00' with pid 116
+2021-01-25 19:14:02,243 CRIT Supervisor running as root (no user in config file)
+2021-01-25 19:14:02,243 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 19:14:02,243 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 19:14:02,252 INFO RPC interface 'supervisor' initialized
+2021-01-25 19:14:02,252 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 19:14:02,253 INFO daemonizing the supervisord process
+2021-01-25 19:14:02,254 INFO supervisord started with pid 18
+2021-01-25 19:14:03,256 INFO spawned: 'OTP_00' with pid 25
+2021-01-25 19:14:03,259 INFO spawned: 'Confirm-Mobile_00' with pid 26
+2021-01-25 19:14:04,300 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:14:04,300 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:14:04,381 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 19:14:04,391 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-25 19:14:04,402 INFO stopped: OTP_00 (exit status 0)
+2021-01-25 19:14:04,408 CRIT Supervisor running as root (no user in config file)
+2021-01-25 19:14:04,408 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 19:14:04,408 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 19:14:04,408 INFO RPC interface 'supervisor' initialized
+2021-01-25 19:14:04,408 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 19:14:04,408 INFO supervisord started with pid 18
+2021-01-25 19:14:05,411 INFO spawned: 'OTP_00' with pid 46
+2021-01-25 19:14:05,413 INFO spawned: 'Confirm-Mobile_00' with pid 47
+2021-01-25 19:14:06,415 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:14:06,415 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:22:35,627 INFO exited: Confirm-Mobile_00 (exit status 0; expected)
+2021-01-25 19:22:35,655 INFO spawned: 'Confirm-Mobile_00' with pid 122
+2021-01-25 19:22:35,656 INFO exited: OTP_00 (exit status 0; expected)
+2021-01-25 19:22:42,593 CRIT Supervisor running as root (no user in config file)
+2021-01-25 19:22:42,593 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 19:22:42,593 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 19:22:42,601 INFO RPC interface 'supervisor' initialized
+2021-01-25 19:22:42,601 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 19:22:42,602 INFO daemonizing the supervisord process
+2021-01-25 19:22:42,603 INFO supervisord started with pid 17
+2021-01-25 19:22:43,669 INFO spawned: 'OTP_00' with pid 24
+2021-01-25 19:22:43,670 INFO spawned: 'Confirm-Mobile_00' with pid 25
+2021-01-25 19:22:44,694 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:22:44,695 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:22:44,948 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 19:22:44,956 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-25 19:22:44,966 INFO stopped: OTP_00 (exit status 0)
+2021-01-25 19:22:44,970 CRIT Supervisor running as root (no user in config file)
+2021-01-25 19:22:44,970 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 19:22:44,970 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 19:22:44,971 INFO RPC interface 'supervisor' initialized
+2021-01-25 19:22:44,971 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 19:22:44,971 INFO supervisord started with pid 17
+2021-01-25 19:22:45,973 INFO spawned: 'OTP_00' with pid 44
+2021-01-25 19:22:45,976 INFO spawned: 'Confirm-Mobile_00' with pid 45
+2021-01-25 19:22:46,978 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:22:46,978 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:27:55,153 INFO exited: OTP_00 (exit status 0; expected)
+2021-01-25 19:27:55,153 INFO exited: Confirm-Mobile_00 (exit status 0; expected)
+2021-01-25 19:28:02,724 CRIT Supervisor running as root (no user in config file)
+2021-01-25 19:28:02,724 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 19:28:02,724 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 19:28:02,732 INFO RPC interface 'supervisor' initialized
+2021-01-25 19:28:02,733 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 19:28:02,736 INFO daemonizing the supervisord process
+2021-01-25 19:28:02,738 INFO supervisord started with pid 19
+2021-01-25 19:28:03,741 INFO spawned: 'OTP_00' with pid 26
+2021-01-25 19:28:03,744 INFO spawned: 'Confirm-Mobile_00' with pid 27
+2021-01-25 19:28:04,755 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:28:04,755 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:28:04,756 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-25 19:28:04,765 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-25 19:28:04,775 INFO stopped: OTP_00 (exit status 0)
+2021-01-25 19:28:04,782 CRIT Supervisor running as root (no user in config file)
+2021-01-25 19:28:04,782 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-25 19:28:04,782 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-25 19:28:04,784 INFO RPC interface 'supervisor' initialized
+2021-01-25 19:28:04,784 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-25 19:28:04,784 INFO supervisord started with pid 19
+2021-01-25 19:28:05,786 INFO spawned: 'OTP_00' with pid 46
+2021-01-25 19:28:05,788 INFO spawned: 'Confirm-Mobile_00' with pid 47
+2021-01-25 19:28:06,789 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-25 19:28:06,789 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-28 09:45:23,468 CRIT Supervisor running as root (no user in config file)
+2021-01-28 09:45:23,468 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-28 09:45:23,468 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-28 09:45:23,478 INFO RPC interface 'supervisor' initialized
+2021-01-28 09:45:23,478 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-28 09:45:23,479 INFO daemonizing the supervisord process
+2021-01-28 09:45:23,480 INFO supervisord started with pid 23
+2021-01-28 09:45:24,483 INFO spawned: 'OTP_00' with pid 24
+2021-01-28 09:45:24,486 INFO spawned: 'Confirm-Mobile_00' with pid 25
+2021-01-28 09:45:25,490 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-28 09:45:25,490 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:20:00,788 CRIT Supervisor running as root (no user in config file)
+2021-01-31 17:20:00,788 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-31 17:20:00,788 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-31 17:20:00,811 INFO RPC interface 'supervisor' initialized
+2021-01-31 17:20:00,811 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-31 17:20:00,812 INFO daemonizing the supervisord process
+2021-01-31 17:20:00,814 INFO supervisord started with pid 18
+2021-01-31 17:20:01,816 INFO spawned: 'OTP_00' with pid 19
+2021-01-31 17:20:01,819 INFO spawned: 'Confirm-Mobile_00' with pid 20
+2021-01-31 17:20:03,341 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:20:03,342 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:20:04,055 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-31 17:20:04,073 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-31 17:20:04,086 INFO stopped: OTP_00 (exit status 0)
+2021-01-31 17:20:04,093 CRIT Supervisor running as root (no user in config file)
+2021-01-31 17:20:04,093 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-31 17:20:04,094 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-31 17:20:04,094 INFO RPC interface 'supervisor' initialized
+2021-01-31 17:20:04,094 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-31 17:20:04,095 INFO supervisord started with pid 18
+2021-01-31 17:20:05,098 INFO spawned: 'OTP_00' with pid 46
+2021-01-31 17:20:05,100 INFO spawned: 'Confirm-Mobile_00' with pid 47
+2021-01-31 17:20:06,101 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:20:06,102 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:24:26,375 INFO exited: OTP_00 (exit status 0; expected)
+2021-01-31 17:24:26,524 INFO spawned: 'OTP_00' with pid 105
+2021-01-31 17:24:26,525 INFO exited: Confirm-Mobile_00 (exit status 0; expected)
+2021-01-31 17:24:27,525 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:24:27,528 INFO spawned: 'Confirm-Mobile_00' with pid 112
+2021-01-31 17:24:28,530 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:24:37,124 CRIT Supervisor running as root (no user in config file)
+2021-01-31 17:24:37,124 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-31 17:24:37,124 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-31 17:24:37,137 INFO RPC interface 'supervisor' initialized
+2021-01-31 17:24:37,137 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-31 17:24:37,138 INFO daemonizing the supervisord process
+2021-01-31 17:24:37,140 INFO supervisord started with pid 19
+2021-01-31 17:24:38,145 INFO spawned: 'OTP_00' with pid 20
+2021-01-31 17:24:38,147 INFO spawned: 'Confirm-Mobile_00' with pid 21
+2021-01-31 17:24:39,752 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:24:39,752 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:24:40,263 INFO waiting for OTP_00, Confirm-Mobile_00 to die
+2021-01-31 17:24:40,284 INFO stopped: Confirm-Mobile_00 (exit status 0)
+2021-01-31 17:24:40,297 INFO stopped: OTP_00 (exit status 0)
+2021-01-31 17:24:40,305 CRIT Supervisor running as root (no user in config file)
+2021-01-31 17:24:40,305 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-31 17:24:40,305 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-31 17:24:40,306 INFO RPC interface 'supervisor' initialized
+2021-01-31 17:24:40,306 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-31 17:24:40,307 INFO supervisord started with pid 19
+2021-01-31 17:24:41,309 INFO spawned: 'OTP_00' with pid 46
+2021-01-31 17:24:41,312 INFO spawned: 'Confirm-Mobile_00' with pid 47
+2021-01-31 17:24:42,313 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:24:42,313 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:37:57,601 CRIT Supervisor running as root (no user in config file)
+2021-01-31 17:37:57,601 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-01-31 17:37:57,601 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-01-31 17:37:57,614 INFO RPC interface 'supervisor' initialized
+2021-01-31 17:37:57,614 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-01-31 17:37:57,615 INFO daemonizing the supervisord process
+2021-01-31 17:37:57,616 INFO supervisord started with pid 23
+2021-01-31 17:37:58,621 INFO spawned: 'OTP_00' with pid 25
+2021-01-31 17:37:58,625 INFO spawned: 'Confirm-Mobile_00' with pid 26
+2021-01-31 17:37:59,783 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-31 17:37:59,783 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-01 10:18:49,316 CRIT Supervisor running as root (no user in config file)
+2021-02-01 10:18:49,316 INFO Included extra file "/etc/supervisor/conf.d/confirm-mobile.conf" during parsing
+2021-02-01 10:18:49,316 INFO Included extra file "/etc/supervisor/conf.d/otp.conf" during parsing
+2021-02-01 10:18:49,329 INFO RPC interface 'supervisor' initialized
+2021-02-01 10:18:49,329 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-02-01 10:18:49,330 INFO daemonizing the supervisord process
+2021-02-01 10:18:49,331 INFO supervisord started with pid 22
+2021-02-01 10:18:50,336 INFO spawned: 'OTP_00' with pid 23
+2021-02-01 10:18:50,340 INFO spawned: 'Confirm-Mobile_00' with pid 24
+2021-02-01 10:18:51,342 INFO success: OTP_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-01 10:18:51,342 INFO success: Confirm-Mobile_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

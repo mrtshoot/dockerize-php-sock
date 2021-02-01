@@ -1,0 +1,102 @@
+---
+version: '3' 
+services:
+
+  #PHP Service
+  app:
+#    build:
+#      context: .
+#      dockerfile: Dockerfile
+    image: localhub.etod.me/mobtaker-php-fpm73:ccb
+    container_name: app-ccb
+    restart: unless-stopped
+    tty: true
+    env_file:
+      - ./.env/php.env
+    working_dir: /var/www
+    networks:
+      - network-ccb
+    volumes:
+      - ./app-files:/var/www
+      - ./app-files/composer.json:/home/www/.composer/composer.json
+      - ./php/local.ini:/usr/local/etc/php/conf.d/local.ini
+      - ./php/local.ini:/etc/php/7.3/fpm/conf.d/local.ini
+      - ./php/local.ini:/etc/php/7.3/cli/conf.d/local.ini
+      - ./php/z-overrides.conf:/etc/php/7.3/fpm/pool.d/z-overrides.conf
+      - ./.env/.env:/var/www/.env:ro
+      - ./php/sock:/sock
+      - /etc/hosts:/etc/hosts:ro
+      - ./supervisor:/etc/supervisor
+      - ./supervisor/supervisord.conf:/etc/supervisord.conf
+      - ./supervisor/conf.d:/etc/supervisor/conf.d
+      - ./supervisor/logs:/var/log/supervisor
+      - ./composer_cache:/home/www/.composer/cache
+      - ./TimeZoneTehran:/etc/localtime
+
+  #Nginx Service
+  web:
+    image: localhub.etod.me/nginx:latest
+    container_name: web-ccb
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "6060:80"
+      - "6065:800"
+    networks:
+      - network-ccb
+    volumes:
+      - ./app-files:/var/www
+      - ./php/sock:/sock
+      - ./nginx/conf.d:/etc/nginx/conf.d/
+      - ./nginx/log:/var/log/nginx
+      - ./nginx/ssl:/etc/ssl/certs
+      - ./TimeZoneTehran:/etc/localtime
+
+
+  #MySQL Service
+  db:
+    image: localhub.etod.me/mariadb:latest
+    container_name: db-ccb
+    restart: unless-stopped
+    tty: true
+    env_file:
+      - ./.env/db.env
+    networks:
+      - network-ccb
+    volumes:
+      - db-ccb:/var/lib/mysql
+      - ./mysql/my.cnf:/etc/mysql/my.cnf
+      - ./TimeZoneTehran:/etc/localtime
+
+  #PHPMyAdmin
+  pma:
+    image: localhub.etod.me/phpmyadmin/phpmyadmin:latest
+    container_name: pma-ccb
+    depends_on:
+      - db
+    env_file:
+      - ./.env/phpmyadmin.env
+    restart: unless-stopped
+    networks:
+      - network-ccb
+    volumes:
+      - ./TimeZoneTehran:/etc/localtime
+
+  #Redis
+  redis:
+    image: localhub.etod.me/redis:latest
+    container_name: redis-ccb
+    restart: unless-stopped
+    networks:
+      - network-ccb
+
+networks:
+  network-ccb:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.30.95.0/24
+
+volumes:
+  db-ccb:
+    driver: local

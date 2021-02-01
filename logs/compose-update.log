@@ -1,0 +1,1414 @@
+Reading ./composer.json
+Loading config file ./composer.json
+Checked CA file /etc/ssl/certs/ca-certificates.crt: valid
+Executing command (/var/www): git branch -a --no-color --no-abbrev -v
+Executing command (/var/www): git describe --exact-match --tags
+Executing command (CWD): git --version
+Executing command (/var/www): git log --pretty="%H" -n1 HEAD
+Executing command (/var/www): hg branch
+Executing command (/var/www): fossil branch list
+Executing command (/var/www): fossil tag list
+Executing command (/var/www): svn info --xml
+Failed to initialize global composer: Composer could not find the config file: /root/.config/composer/composer.json
+To initialize a project, please create a composer.json file as described in the https://getcomposer.org/ "Getting Started" section
+Reading /var/www/vendor/composer/installed.json
+Loading plugin PackageVersions\Installer
+Running 2.0.8 (2020-12-03 17:20:38) with PHP 7.3.26-1+ubuntu18.04.1+deb.sury.org+1 on Linux / 3.10.0-1127.19.1.el7.x86_64
+Reading ./composer.lock
+Loading composer repositories with package information
+Downloading https://repo.packagist.org/packages.json
+[200] https://repo.packagist.org/packages.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/packages.json into cache
+Downloading https://repo.packagist.org/p2/doctrine/dbal.json
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-flipbox~lumen-generator.json from cache
+Downloading https://repo.packagist.org/p2/flipbox/lumen-generator.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~guzzle.json from cache
+Downloading https://repo.packagist.org/p2/guzzlehttp/guzzle.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-iexbase~tron-api-laravel.json from cache
+Downloading https://repo.packagist.org/p2/iexbase/tron-api-laravel.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/redis.json
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-irazasyed~telegram-bot-sdk.json from cache
+Downloading https://repo.packagist.org/p2/irazasyed/telegram-bot-sdk.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kavenegar~laravel.json from cache
+Downloading https://repo.packagist.org/p2/kavenegar/laravel.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-laravel~lumen-framework.json from cache
+Downloading https://repo.packagist.org/p2/laravel/lumen-framework.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-lcobucci~jwt.json from cache
+Downloading https://repo.packagist.org/p2/lcobucci/jwt.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-predis~predis.json from cache
+Downloading https://repo.packagist.org/p2/predis/predis.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sentry-laravel.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-simplesoftwareio~simple-qrcode.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-tymon~jwt-auth.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-fakerphp~faker.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-mockery~mockery.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~phpunit.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-flipbox~lumen-generator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~guzzle~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-iexbase~tron-api-laravel~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-irazasyed~telegram-bot-sdk~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kavenegar~laravel~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-laravel~lumen-framework~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-lcobucci~jwt~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-predis~predis~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sentry-laravel~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-simplesoftwareio~simple-qrcode~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-tymon~jwt-auth~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-fakerphp~faker~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-mockery~mockery~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~phpunit~dev.json from cache
+[200] https://repo.packagist.org/p2/doctrine/dbal.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~dbal.json into cache
+[304] https://repo.packagist.org/p2/flipbox/lumen-generator.json
+[304] https://repo.packagist.org/p2/guzzlehttp/guzzle.json
+[304] https://repo.packagist.org/p2/iexbase/tron-api-laravel.json
+Downloading https://repo.packagist.org/p2/sentry/sentry-laravel.json if modified
+Downloading https://repo.packagist.org/p2/simplesoftwareio/simple-qrcode.json if modified
+Downloading https://repo.packagist.org/p2/tymon/jwt-auth.json if modified
+Downloading https://repo.packagist.org/p2/fakerphp/faker.json if modified
+[200] https://repo.packagist.org/p2/illuminate/redis.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~redis.json into cache
+[304] https://repo.packagist.org/p2/irazasyed/telegram-bot-sdk.json
+[304] https://repo.packagist.org/p2/kavenegar/laravel.json
+Downloading https://repo.packagist.org/p2/mockery/mockery.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/phpunit.json if modified
+Downloading https://repo.packagist.org/p2/doctrine/dbal~dev.json
+[200] https://repo.packagist.org/p2/laravel/lumen-framework.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-laravel~lumen-framework.json into cache
+[200] https://repo.packagist.org/p2/lcobucci/jwt.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-lcobucci~jwt.json into cache
+[304] https://repo.packagist.org/p2/predis/predis.json
+Downloading https://repo.packagist.org/p2/flipbox/lumen-generator~dev.json if modified
+Downloading https://repo.packagist.org/p2/guzzlehttp/guzzle~dev.json if modified
+Downloading https://repo.packagist.org/p2/iexbase/tron-api-laravel~dev.json if modified
+[304] https://repo.packagist.org/p2/sentry/sentry-laravel.json
+[304] https://repo.packagist.org/p2/simplesoftwareio/simple-qrcode.json
+[304] https://repo.packagist.org/p2/tymon/jwt-auth.json
+[304] https://repo.packagist.org/p2/fakerphp/faker.json
+Downloading https://repo.packagist.org/p2/illuminate/redis~dev.json
+Downloading https://repo.packagist.org/p2/irazasyed/telegram-bot-sdk~dev.json if modified
+Downloading https://repo.packagist.org/p2/kavenegar/laravel~dev.json if modified
+Downloading https://repo.packagist.org/p2/laravel/lumen-framework~dev.json if modified
+[304] https://repo.packagist.org/p2/mockery/mockery.json
+[200] https://repo.packagist.org/p2/doctrine/dbal~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~dbal~dev.json into cache
+Downloading https://repo.packagist.org/p2/lcobucci/jwt~dev.json if modified
+Downloading https://repo.packagist.org/p2/predis/predis~dev.json if modified
+[304] https://repo.packagist.org/p2/phpunit/phpunit.json
+Downloading https://repo.packagist.org/p2/sentry/sentry-laravel~dev.json if modified
+[304] https://repo.packagist.org/p2/flipbox/lumen-generator~dev.json
+[200] https://repo.packagist.org/p2/guzzlehttp/guzzle~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~guzzle~dev.json into cache
+[304] https://repo.packagist.org/p2/iexbase/tron-api-laravel~dev.json
+[200] https://repo.packagist.org/p2/illuminate/redis~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~redis~dev.json into cache
+[304] https://repo.packagist.org/p2/irazasyed/telegram-bot-sdk~dev.json
+[200] https://repo.packagist.org/p2/laravel/lumen-framework~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-laravel~lumen-framework~dev.json into cache
+Downloading https://repo.packagist.org/p2/simplesoftwareio/simple-qrcode~dev.json if modified
+Downloading https://repo.packagist.org/p2/tymon/jwt-auth~dev.json if modified
+Downloading https://repo.packagist.org/p2/fakerphp/faker~dev.json if modified
+Downloading https://repo.packagist.org/p2/mockery/mockery~dev.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/phpunit~dev.json if modified
+[304] https://repo.packagist.org/p2/kavenegar/laravel~dev.json
+[200] https://repo.packagist.org/p2/lcobucci/jwt~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-lcobucci~jwt~dev.json into cache
+[304] https://repo.packagist.org/p2/predis/predis~dev.json
+[304] https://repo.packagist.org/p2/sentry/sentry-laravel~dev.json
+[304] https://repo.packagist.org/p2/simplesoftwareio/simple-qrcode~dev.json
+[200] https://repo.packagist.org/p2/fakerphp/faker~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-fakerphp~faker~dev.json into cache
+[200] https://repo.packagist.org/p2/mockery/mockery~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-mockery~mockery~dev.json into cache
+[200] https://repo.packagist.org/p2/phpunit/phpunit~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~phpunit~dev.json into cache
+[304] https://repo.packagist.org/p2/tymon/jwt-auth~dev.json
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-composer~package-versions-deprecated.json from cache
+Downloading https://repo.packagist.org/p2/composer/package-versions-deprecated.json if modified
+Downloading https://repo.packagist.org/p2/doctrine/cache.json
+Downloading https://repo.packagist.org/p2/doctrine/event-manager.json
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~support.json from cache
+Downloading https://repo.packagist.org/p2/illuminate/support.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~console.json from cache
+Downloading https://repo.packagist.org/p2/illuminate/console.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~filesystem.json from cache
+Downloading https://repo.packagist.org/p2/illuminate/filesystem.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~var-dumper.json from cache
+Downloading https://repo.packagist.org/p2/symfony/var-dumper.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psy~psysh.json from cache
+Downloading https://repo.packagist.org/p2/psy/psysh.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-classpreloader~classpreloader.json from cache
+Downloading https://repo.packagist.org/p2/classpreloader/classpreloader.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~promises.json from cache
+Downloading https://repo.packagist.org/p2/guzzlehttp/promises.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~psr7.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~http-client.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~collections.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~macroable.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-league~event.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kavenegar~php.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~auth.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~broadcasting.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~bus.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~cache.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~config.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~container.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~database.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~encryption.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~events.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~hashing.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~http.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pagination.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pipeline.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~queue.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~testing.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~translation.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~validation.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~view.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~log.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-dragonmantank~cron-expression.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-nikic~fast-route.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~console.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~error-handler.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-kernel.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-foundation.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~mime.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-vlucas~phpdotenv.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-cweagans~composer-patches.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sentry.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sdk.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-bacon~bacon-qr-code.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-namshi~jose.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-nesbot~carbon.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-hamcrest~hamcrest-php.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~instantiator.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-myclabs~deep-copy.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phar-io~manifest.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phar-io~version.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpspec~prophecy.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-code-coverage.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-file-iterator.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-invoker.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-text-template.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-timer.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~cli-parser.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~code-unit.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~comparator.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~diff.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~environment.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~exporter.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~global-state.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~object-enumerator.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~resource-operations.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~type.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~version.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-iexbase~tron-api.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-composer~package-versions-deprecated~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~support~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~console~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~filesystem~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~var-dumper~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psy~psysh~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-classpreloader~classpreloader~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~promises~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~psr7~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~http-client~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~collections~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~macroable~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-league~event~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kavenegar~php~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~auth~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~broadcasting~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~bus~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~cache~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~config~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~container~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~database~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~encryption~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~events~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~hashing~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~http~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pagination~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pipeline~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~queue~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~testing~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~translation~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~validation~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~view~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~log~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-dragonmantank~cron-expression~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-nikic~fast-route~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~console~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~error-handler~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-kernel~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-foundation~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~mime~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-vlucas~phpdotenv~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-cweagans~composer-patches~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sentry~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sdk~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-bacon~bacon-qr-code~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-namshi~jose~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-nesbot~carbon~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-hamcrest~hamcrest-php~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~instantiator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-myclabs~deep-copy~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phar-io~manifest~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phar-io~version~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpspec~prophecy~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-code-coverage~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-file-iterator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-invoker~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-text-template~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-timer~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~cli-parser~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~code-unit~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~comparator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~diff~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~environment~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~exporter~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~global-state~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~object-enumerator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~resource-operations~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~type~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~version~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-iexbase~tron-api~dev.json from cache
+[304] https://repo.packagist.org/p2/composer/package-versions-deprecated.json
+[200] https://repo.packagist.org/p2/doctrine/cache.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~cache.json into cache
+[200] https://repo.packagist.org/p2/doctrine/event-manager.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~event-manager.json into cache
+Downloading https://repo.packagist.org/p2/guzzlehttp/psr7.json if modified
+Downloading https://repo.packagist.org/p2/psr/http-client.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/collections.json if modified
+[200] https://repo.packagist.org/p2/illuminate/support.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~support.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/contracts.json if modified
+[200] https://repo.packagist.org/p2/illuminate/console.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~console.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/macroable.json if modified
+[200] https://repo.packagist.org/p2/illuminate/filesystem.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~filesystem.json into cache
+Downloading https://repo.packagist.org/p2/league/event.json if modified
+[200] https://repo.packagist.org/p2/symfony/var-dumper.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~var-dumper.json into cache
+[304] https://repo.packagist.org/p2/psy/psysh.json
+[304] https://repo.packagist.org/p2/classpreloader/classpreloader.json
+[304] https://repo.packagist.org/p2/guzzlehttp/promises.json
+Downloading https://repo.packagist.org/p2/kavenegar/php.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/auth.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/broadcasting.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/bus.json if modified
+[304] https://repo.packagist.org/p2/guzzlehttp/psr7.json
+[304] https://repo.packagist.org/p2/psr/http-client.json
+Downloading https://repo.packagist.org/p2/illuminate/cache.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/config.json if modified
+[200] https://repo.packagist.org/p2/illuminate/collections.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~collections.json into cache
+[200] https://repo.packagist.org/p2/illuminate/contracts.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~contracts.json into cache
+[200] https://repo.packagist.org/p2/illuminate/macroable.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~macroable.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/container.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/database.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/encryption.json if modified
+[304] https://repo.packagist.org/p2/league/event.json
+Downloading https://repo.packagist.org/p2/illuminate/events.json if modified
+[304] https://repo.packagist.org/p2/kavenegar/php.json
+Downloading https://repo.packagist.org/p2/illuminate/hashing.json if modified
+[200] https://repo.packagist.org/p2/illuminate/auth.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~auth.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/http.json if modified
+[200] https://repo.packagist.org/p2/illuminate/broadcasting.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~broadcasting.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/pagination.json if modified
+[200] https://repo.packagist.org/p2/illuminate/bus.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~bus.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/pipeline.json if modified
+[200] https://repo.packagist.org/p2/illuminate/cache.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~cache.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/queue.json if modified
+[200] https://repo.packagist.org/p2/illuminate/config.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~config.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/testing.json if modified
+[200] https://repo.packagist.org/p2/illuminate/container.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~container.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/translation.json if modified
+[200] https://repo.packagist.org/p2/illuminate/database.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~database.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/validation.json if modified
+[200] https://repo.packagist.org/p2/illuminate/encryption.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~encryption.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/view.json if modified
+[200] https://repo.packagist.org/p2/illuminate/events.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~events.json into cache
+[200] https://repo.packagist.org/p2/illuminate/hashing.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~hashing.json into cache
+[200] https://repo.packagist.org/p2/illuminate/http.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~http.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/log.json if modified
+Downloading https://repo.packagist.org/p2/dragonmantank/cron-expression.json if modified
+Downloading https://repo.packagist.org/p2/nikic/fast-route.json if modified
+[200] https://repo.packagist.org/p2/illuminate/pagination.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pagination.json into cache
+[200] https://repo.packagist.org/p2/illuminate/pipeline.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pipeline.json into cache
+[200] https://repo.packagist.org/p2/illuminate/queue.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~queue.json into cache
+[200] https://repo.packagist.org/p2/illuminate/testing.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~testing.json into cache
+Downloading https://repo.packagist.org/p2/symfony/console.json if modified
+Downloading https://repo.packagist.org/p2/symfony/error-handler.json if modified
+Downloading https://repo.packagist.org/p2/symfony/http-kernel.json if modified
+Downloading https://repo.packagist.org/p2/symfony/http-foundation.json if modified
+[200] https://repo.packagist.org/p2/illuminate/translation.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~translation.json into cache
+Downloading https://repo.packagist.org/p2/symfony/mime.json if modified
+[200] https://repo.packagist.org/p2/illuminate/validation.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~validation.json into cache
+Downloading https://repo.packagist.org/p2/vlucas/phpdotenv.json if modified
+[200] https://repo.packagist.org/p2/illuminate/view.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~view.json into cache
+Downloading https://repo.packagist.org/p2/cweagans/composer-patches.json if modified
+[200] https://repo.packagist.org/p2/illuminate/log.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~log.json into cache
+[304] https://repo.packagist.org/p2/dragonmantank/cron-expression.json
+[304] https://repo.packagist.org/p2/nikic/fast-route.json
+Downloading https://repo.packagist.org/p2/sentry/sentry.json if modified
+Downloading https://repo.packagist.org/p2/sentry/sdk.json if modified
+Downloading https://repo.packagist.org/p2/bacon/bacon-qr-code.json if modified
+[200] https://repo.packagist.org/p2/symfony/console.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~console.json into cache
+Downloading https://repo.packagist.org/p2/namshi/jose.json if modified
+[200] https://repo.packagist.org/p2/symfony/error-handler.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~error-handler.json into cache
+Downloading https://repo.packagist.org/p2/nesbot/carbon.json if modified
+[200] https://repo.packagist.org/p2/symfony/http-kernel.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-kernel.json into cache
+Downloading https://repo.packagist.org/p2/hamcrest/hamcrest-php.json if modified
+[200] https://repo.packagist.org/p2/symfony/http-foundation.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-foundation.json into cache
+Downloading https://repo.packagist.org/p2/doctrine/instantiator.json if modified
+[200] https://repo.packagist.org/p2/symfony/mime.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~mime.json into cache
+[304] https://repo.packagist.org/p2/vlucas/phpdotenv.json
+[304] https://repo.packagist.org/p2/cweagans/composer-patches.json
+Downloading https://repo.packagist.org/p2/myclabs/deep-copy.json if modified
+Downloading https://repo.packagist.org/p2/phar-io/manifest.json if modified
+Downloading https://repo.packagist.org/p2/phar-io/version.json if modified
+[200] https://repo.packagist.org/p2/sentry/sentry.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sentry.json into cache
+[304] https://repo.packagist.org/p2/sentry/sdk.json
+[304] https://repo.packagist.org/p2/bacon/bacon-qr-code.json
+[304] https://repo.packagist.org/p2/namshi/jose.json
+Downloading https://repo.packagist.org/p2/phpspec/prophecy.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/php-code-coverage.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/php-file-iterator.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/php-invoker.json if modified
+[200] https://repo.packagist.org/p2/nesbot/carbon.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-nesbot~carbon.json into cache
+[304] https://repo.packagist.org/p2/hamcrest/hamcrest-php.json
+Downloading https://repo.packagist.org/p2/phpunit/php-text-template.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/php-timer.json if modified
+[304] https://repo.packagist.org/p2/doctrine/instantiator.json
+[304] https://repo.packagist.org/p2/myclabs/deep-copy.json
+[304] https://repo.packagist.org/p2/phar-io/manifest.json
+[304] https://repo.packagist.org/p2/phar-io/version.json
+Downloading https://repo.packagist.org/p2/sebastian/cli-parser.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/code-unit.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/comparator.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/diff.json if modified
+[304] https://repo.packagist.org/p2/phpspec/prophecy.json
+[304] https://repo.packagist.org/p2/phpunit/php-code-coverage.json
+[304] https://repo.packagist.org/p2/phpunit/php-file-iterator.json
+[304] https://repo.packagist.org/p2/phpunit/php-invoker.json
+Downloading https://repo.packagist.org/p2/sebastian/environment.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/exporter.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/global-state.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/object-enumerator.json if modified
+[304] https://repo.packagist.org/p2/phpunit/php-text-template.json
+[304] https://repo.packagist.org/p2/phpunit/php-timer.json
+[304] https://repo.packagist.org/p2/sebastian/cli-parser.json
+[304] https://repo.packagist.org/p2/sebastian/code-unit.json
+[304] https://repo.packagist.org/p2/sebastian/comparator.json
+Downloading https://repo.packagist.org/p2/sebastian/resource-operations.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/type.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/version.json if modified
+Downloading https://repo.packagist.org/p2/iexbase/tron-api.json if modified
+Downloading https://repo.packagist.org/p2/composer/package-versions-deprecated~dev.json if modified
+[304] https://repo.packagist.org/p2/sebastian/diff.json
+Downloading https://repo.packagist.org/p2/doctrine/cache~dev.json
+[304] https://repo.packagist.org/p2/sebastian/environment.json
+[304] https://repo.packagist.org/p2/sebastian/exporter.json
+[304] https://repo.packagist.org/p2/sebastian/global-state.json
+[304] https://repo.packagist.org/p2/sebastian/object-enumerator.json
+Downloading https://repo.packagist.org/p2/doctrine/event-manager~dev.json
+Downloading https://repo.packagist.org/p2/illuminate/support~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/console~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/filesystem~dev.json if modified
+[304] https://repo.packagist.org/p2/sebastian/resource-operations.json
+[304] https://repo.packagist.org/p2/sebastian/type.json
+[304] https://repo.packagist.org/p2/sebastian/version.json
+[304] https://repo.packagist.org/p2/iexbase/tron-api.json
+[304] https://repo.packagist.org/p2/composer/package-versions-deprecated~dev.json
+Downloading https://repo.packagist.org/p2/symfony/var-dumper~dev.json if modified
+Downloading https://repo.packagist.org/p2/psy/psysh~dev.json if modified
+Downloading https://repo.packagist.org/p2/classpreloader/classpreloader~dev.json if modified
+Downloading https://repo.packagist.org/p2/guzzlehttp/promises~dev.json if modified
+Downloading https://repo.packagist.org/p2/guzzlehttp/psr7~dev.json if modified
+[200] https://repo.packagist.org/p2/doctrine/cache~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~cache~dev.json into cache
+Downloading https://repo.packagist.org/p2/psr/http-client~dev.json if modified
+[200] https://repo.packagist.org/p2/doctrine/event-manager~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~event-manager~dev.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/collections~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/support~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~support~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/console~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~console~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/filesystem~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~filesystem~dev.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/contracts~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/macroable~dev.json if modified
+Downloading https://repo.packagist.org/p2/league/event~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/var-dumper~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~var-dumper~dev.json into cache
+[304] https://repo.packagist.org/p2/psy/psysh~dev.json
+[304] https://repo.packagist.org/p2/classpreloader/classpreloader~dev.json
+[304] https://repo.packagist.org/p2/guzzlehttp/promises~dev.json
+[304] https://repo.packagist.org/p2/guzzlehttp/psr7~dev.json
+[304] https://repo.packagist.org/p2/psr/http-client~dev.json
+Downloading https://repo.packagist.org/p2/kavenegar/php~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/auth~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/broadcasting~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/bus~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/cache~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/config~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/collections~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~collections~dev.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/container~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/contracts~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~contracts~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/macroable~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~macroable~dev.json into cache
+[304] https://repo.packagist.org/p2/league/event~dev.json
+Downloading https://repo.packagist.org/p2/illuminate/database~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/encryption~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/events~dev.json if modified
+[304] https://repo.packagist.org/p2/kavenegar/php~dev.json
+[200] https://repo.packagist.org/p2/illuminate/auth~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~auth~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/broadcasting~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~broadcasting~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/bus~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~bus~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/cache~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~cache~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/config~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~config~dev.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/hashing~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/http~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/pagination~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/pipeline~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/queue~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/testing~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/container~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~container~dev.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/translation~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/database~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~database~dev.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/validation~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/encryption~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~encryption~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/events~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~events~dev.json into cache
+Downloading https://repo.packagist.org/p2/illuminate/view~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/log~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/hashing~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~hashing~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/http~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~http~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/pagination~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pagination~dev.json into cache
+Downloading https://repo.packagist.org/p2/dragonmantank/cron-expression~dev.json if modified
+Downloading https://repo.packagist.org/p2/nikic/fast-route~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/console~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/pipeline~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pipeline~dev.json into cache
+Downloading https://repo.packagist.org/p2/symfony/error-handler~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/queue~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~queue~dev.json into cache
+[200] https://repo.packagist.org/p2/illuminate/testing~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~testing~dev.json into cache
+Downloading https://repo.packagist.org/p2/symfony/http-kernel~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/http-foundation~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/translation~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~translation~dev.json into cache
+Downloading https://repo.packagist.org/p2/symfony/mime~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/validation~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~validation~dev.json into cache
+Downloading https://repo.packagist.org/p2/vlucas/phpdotenv~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/view~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~view~dev.json into cache
+Downloading https://repo.packagist.org/p2/cweagans/composer-patches~dev.json if modified
+[200] https://repo.packagist.org/p2/illuminate/log~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~log~dev.json into cache
+Downloading https://repo.packagist.org/p2/sentry/sentry~dev.json if modified
+[304] https://repo.packagist.org/p2/dragonmantank/cron-expression~dev.json
+[304] https://repo.packagist.org/p2/nikic/fast-route~dev.json
+Downloading https://repo.packagist.org/p2/sentry/sdk~dev.json if modified
+Downloading https://repo.packagist.org/p2/bacon/bacon-qr-code~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/console~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~console~dev.json into cache
+[200] https://repo.packagist.org/p2/symfony/error-handler~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~error-handler~dev.json into cache
+Downloading https://repo.packagist.org/p2/namshi/jose~dev.json if modified
+Downloading https://repo.packagist.org/p2/nesbot/carbon~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/http-kernel~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-kernel~dev.json into cache
+Downloading https://repo.packagist.org/p2/hamcrest/hamcrest-php~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/http-foundation~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-foundation~dev.json into cache
+Downloading https://repo.packagist.org/p2/doctrine/instantiator~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/mime~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~mime~dev.json into cache
+Downloading https://repo.packagist.org/p2/myclabs/deep-copy~dev.json if modified
+[304] https://repo.packagist.org/p2/vlucas/phpdotenv~dev.json
+[304] https://repo.packagist.org/p2/cweagans/composer-patches~dev.json
+Downloading https://repo.packagist.org/p2/phar-io/manifest~dev.json if modified
+Downloading https://repo.packagist.org/p2/phar-io/version~dev.json if modified
+[200] https://repo.packagist.org/p2/sentry/sentry~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sentry~dev.json into cache
+Downloading https://repo.packagist.org/p2/phpspec/prophecy~dev.json if modified
+[304] https://repo.packagist.org/p2/sentry/sdk~dev.json
+[304] https://repo.packagist.org/p2/bacon/bacon-qr-code~dev.json
+[200] https://repo.packagist.org/p2/nesbot/carbon~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-nesbot~carbon~dev.json into cache
+Downloading https://repo.packagist.org/p2/phpunit/php-code-coverage~dev.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/php-file-iterator~dev.json if modified
+Downloading https://repo.packagist.org/p2/phpunit/php-invoker~dev.json if modified
+[304] https://repo.packagist.org/p2/namshi/jose~dev.json
+Downloading https://repo.packagist.org/p2/phpunit/php-text-template~dev.json if modified
+[304] https://repo.packagist.org/p2/hamcrest/hamcrest-php~dev.json
+Downloading https://repo.packagist.org/p2/phpunit/php-timer~dev.json if modified
+[304] https://repo.packagist.org/p2/doctrine/instantiator~dev.json
+Downloading https://repo.packagist.org/p2/sebastian/cli-parser~dev.json if modified
+[304] https://repo.packagist.org/p2/myclabs/deep-copy~dev.json
+[304] https://repo.packagist.org/p2/phar-io/manifest~dev.json
+[304] https://repo.packagist.org/p2/phar-io/version~dev.json
+Downloading https://repo.packagist.org/p2/sebastian/code-unit~dev.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/comparator~dev.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/diff~dev.json if modified
+[304] https://repo.packagist.org/p2/phpspec/prophecy~dev.json
+Downloading https://repo.packagist.org/p2/sebastian/environment~dev.json if modified
+[200] https://repo.packagist.org/p2/phpunit/php-code-coverage~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-code-coverage~dev.json into cache
+[200] https://repo.packagist.org/p2/phpunit/php-file-iterator~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-file-iterator~dev.json into cache
+[200] https://repo.packagist.org/p2/phpunit/php-invoker~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-invoker~dev.json into cache
+[200] https://repo.packagist.org/p2/phpunit/php-text-template~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-text-template~dev.json into cache
+Downloading https://repo.packagist.org/p2/sebastian/exporter~dev.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/global-state~dev.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/object-enumerator~dev.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/resource-operations~dev.json if modified
+[200] https://repo.packagist.org/p2/phpunit/php-timer~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-timer~dev.json into cache
+Downloading https://repo.packagist.org/p2/sebastian/type~dev.json if modified
+[200] https://repo.packagist.org/p2/sebastian/cli-parser~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~cli-parser~dev.json into cache
+Downloading https://repo.packagist.org/p2/sebastian/version~dev.json if modified
+[200] https://repo.packagist.org/p2/sebastian/code-unit~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~code-unit~dev.json into cache
+[200] https://repo.packagist.org/p2/sebastian/comparator~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~comparator~dev.json into cache
+[200] https://repo.packagist.org/p2/sebastian/diff~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~diff~dev.json into cache
+Downloading https://repo.packagist.org/p2/iexbase/tron-api~dev.json if modified
+[200] https://repo.packagist.org/p2/sebastian/environment~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~environment~dev.json into cache
+[200] https://repo.packagist.org/p2/sebastian/exporter~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~exporter~dev.json into cache
+[200] https://repo.packagist.org/p2/sebastian/global-state~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~global-state~dev.json into cache
+[200] https://repo.packagist.org/p2/sebastian/object-enumerator~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~object-enumerator~dev.json into cache
+[304] https://repo.packagist.org/p2/sebastian/resource-operations~dev.json
+[200] https://repo.packagist.org/p2/sebastian/type~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~type~dev.json into cache
+[304] https://repo.packagist.org/p2/sebastian/version~dev.json
+[304] https://repo.packagist.org/p2/iexbase/tron-api~dev.json
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~inflector.json from cache
+Downloading https://repo.packagist.org/p2/doctrine/inflector.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-voku~portable-ascii.json from cache
+Downloading https://repo.packagist.org/p2/voku/portable-ascii.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-paragonie~random-compat.json from cache
+Downloading https://repo.packagist.org/p2/paragonie/random_compat.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-danielstjules~stringy.json from cache
+Downloading https://repo.packagist.org/p2/danielstjules/stringy.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~process.json from cache
+Downloading https://repo.packagist.org/p2/symfony/process.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~console.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~finder.json from cache
+Downloading https://repo.packagist.org/p2/symfony/finder.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-mbstring.json from cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-mbstring.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php80.json from cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php80.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php72.json from cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php72.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~var-dumper.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-nikic~php-parser.json from cache
+Downloading https://repo.packagist.org/p2/nikic/php-parser.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-dnoegel~php-xdg-base-dir.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-jakub-onderka~php-console-highlighter.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~http-message.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ralouphie~getallheaders.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~container.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~simple-cache.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~queue.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~session.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~log.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-foundation.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-kernel.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~mime.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-opis~closure.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ramsey~uuid.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-egulias~email-validator.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-monolog~monolog.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-webmozart~assert.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php73.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~service-contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~string.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~deprecation-contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~error-handler.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-client-contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-ctype.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-intl-idn.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpdocumentor~reflection-docblock.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~property-access.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~property-info.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~serializer.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-graham-campbell~result-type.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpoption~phpoption.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-jean85~pretty-package-versions.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ocramius~package-versions.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~client-common.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~discovery.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~httplug.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~message.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~http-factory.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~options-resolver.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-uuid.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~promises.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sentry.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-http-interop~http-factory-guzzle.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-client.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-dasprid~enum.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php56.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpseclib~phpseclib.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~translation.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kylekatarnls~update-helper.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phar-io~version.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~comparator.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~instantiator.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~recursion-context.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-file-iterator.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~code-unit-reverse-lookup.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~complexity.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~lines-of-code.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-theseer~tokenizer.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~diff.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~exporter.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~object-reflector.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-iexbase~web3.php.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kornrunner~secp256k1.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-simplito~elliptic-php.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sc0vu~web3.php.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~inflector~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-voku~portable-ascii~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-paragonie~random-compat~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-danielstjules~stringy~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~process~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~console~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~finder~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-mbstring~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php80~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php72~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~var-dumper~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-nikic~php-parser~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-dnoegel~php-xdg-base-dir~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-jakub-onderka~php-console-highlighter~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~http-message~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ralouphie~getallheaders~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~container~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~simple-cache~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~queue~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~session~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~log~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-foundation~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-kernel~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~mime~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-opis~closure~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ramsey~uuid~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-egulias~email-validator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-monolog~monolog~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-webmozart~assert~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php73~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~service-contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~string~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~deprecation-contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~error-handler~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-client-contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-ctype~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-intl-idn~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpdocumentor~reflection-docblock~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~property-access~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~property-info~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~serializer~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-graham-campbell~result-type~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpoption~phpoption~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-jean85~pretty-package-versions~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ocramius~package-versions~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~client-common~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~discovery~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~httplug~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~message~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~http-factory~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~options-resolver~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-uuid~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-guzzlehttp~promises~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sentry~sentry~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-http-interop~http-factory-guzzle~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-client~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-dasprid~enum~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php56~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpseclib~phpseclib~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~translation~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kylekatarnls~update-helper~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phar-io~version~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~comparator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~instantiator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~recursion-context~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpunit~php-file-iterator~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~code-unit-reverse-lookup~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~complexity~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~lines-of-code~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-theseer~tokenizer~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~diff~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~exporter~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~object-reflector~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-iexbase~web3.php~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kornrunner~secp256k1~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-simplito~elliptic-php~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sc0vu~web3.php~dev.json from cache
+[304] https://repo.packagist.org/p2/doctrine/inflector.json
+[304] https://repo.packagist.org/p2/voku/portable-ascii.json
+Downloading https://repo.packagist.org/p2/dnoegel/php-xdg-base-dir.json if modified
+Downloading https://repo.packagist.org/p2/jakub-onderka/php-console-highlighter.json if modified
+[304] https://repo.packagist.org/p2/paragonie/random_compat.json
+[304] https://repo.packagist.org/p2/danielstjules/stringy.json
+Downloading https://repo.packagist.org/p2/psr/http-message.json if modified
+Downloading https://repo.packagist.org/p2/ralouphie/getallheaders.json if modified
+[200] https://repo.packagist.org/p2/symfony/process.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~process.json into cache
+Downloading https://repo.packagist.org/p2/psr/container.json if modified
+[200] https://repo.packagist.org/p2/symfony/finder.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~finder.json into cache
+[304] https://repo.packagist.org/p2/symfony/polyfill-mbstring.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-php80.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-php72.json
+[304] https://repo.packagist.org/p2/nikic/php-parser.json
+[304] https://repo.packagist.org/p2/dnoegel/php-xdg-base-dir.json
+[304] https://repo.packagist.org/p2/jakub-onderka/php-console-highlighter.json
+[304] https://repo.packagist.org/p2/psr/http-message.json
+[304] https://repo.packagist.org/p2/ralouphie/getallheaders.json
+Downloading https://repo.packagist.org/p2/psr/simple-cache.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/session.json if modified
+Downloading https://repo.packagist.org/p2/psr/log.json if modified
+Downloading https://repo.packagist.org/p2/opis/closure.json if modified
+Downloading https://repo.packagist.org/p2/ramsey/uuid.json if modified
+Downloading https://repo.packagist.org/p2/egulias/email-validator.json if modified
+Downloading https://repo.packagist.org/p2/monolog/monolog.json if modified
+Downloading https://repo.packagist.org/p2/webmozart/assert.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php73.json if modified
+[304] https://repo.packagist.org/p2/psr/container.json
+Downloading https://repo.packagist.org/p2/symfony/service-contracts.json if modified
+[304] https://repo.packagist.org/p2/psr/simple-cache.json
+[200] https://repo.packagist.org/p2/illuminate/session.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~session.json into cache
+[304] https://repo.packagist.org/p2/psr/log.json
+[304] https://repo.packagist.org/p2/opis/closure.json
+[304] https://repo.packagist.org/p2/ramsey/uuid.json
+[304] https://repo.packagist.org/p2/egulias/email-validator.json
+[304] https://repo.packagist.org/p2/monolog/monolog.json
+[304] https://repo.packagist.org/p2/webmozart/assert.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-php73.json
+[304] https://repo.packagist.org/p2/symfony/service-contracts.json
+Downloading https://repo.packagist.org/p2/symfony/string.json if modified
+Downloading https://repo.packagist.org/p2/symfony/deprecation-contracts.json if modified
+Downloading https://repo.packagist.org/p2/symfony/event-dispatcher.json if modified
+Downloading https://repo.packagist.org/p2/symfony/http-client-contracts.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-ctype.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-intl-idn.json if modified
+Downloading https://repo.packagist.org/p2/phpdocumentor/reflection-docblock.json if modified
+Downloading https://repo.packagist.org/p2/symfony/property-access.json if modified
+Downloading https://repo.packagist.org/p2/symfony/property-info.json if modified
+Downloading https://repo.packagist.org/p2/symfony/serializer.json if modified
+[200] https://repo.packagist.org/p2/symfony/string.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~string.json into cache
+[304] https://repo.packagist.org/p2/symfony/deprecation-contracts.json
+Downloading https://repo.packagist.org/p2/graham-campbell/result-type.json if modified
+Downloading https://repo.packagist.org/p2/phpoption/phpoption.json if modified
+[200] https://repo.packagist.org/p2/symfony/event-dispatcher.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher.json into cache
+[304] https://repo.packagist.org/p2/symfony/http-client-contracts.json
+Downloading https://repo.packagist.org/p2/jean85/pretty-package-versions.json if modified
+Downloading https://repo.packagist.org/p2/ocramius/package-versions.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-ctype.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-intl-idn.json
+[200] https://repo.packagist.org/p2/symfony/property-access.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~property-access.json into cache
+Downloading https://repo.packagist.org/p2/php-http/async-client-implementation.json
+Downloading https://repo.packagist.org/p2/php-http/client-common.json if modified
+Downloading https://repo.packagist.org/p2/php-http/discovery.json if modified
+[304] https://repo.packagist.org/p2/phpdocumentor/reflection-docblock.json
+Downloading https://repo.packagist.org/p2/php-http/httplug.json if modified
+[200] https://repo.packagist.org/p2/symfony/property-info.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~property-info.json into cache
+Downloading https://repo.packagist.org/p2/php-http/message.json if modified
+[200] https://repo.packagist.org/p2/symfony/serializer.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~serializer.json into cache
+[304] https://repo.packagist.org/p2/graham-campbell/result-type.json
+Downloading https://repo.packagist.org/p2/psr/http-factory.json if modified
+Downloading https://repo.packagist.org/p2/psr/http-message-implementation.json
+[304] https://repo.packagist.org/p2/phpoption/phpoption.json
+Downloading https://repo.packagist.org/p2/symfony/options-resolver.json if modified
+[200] https://repo.packagist.org/p2/jean85/pretty-package-versions.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-jean85~pretty-package-versions.json into cache
+[304] https://repo.packagist.org/p2/ocramius/package-versions.json
+[304] https://repo.packagist.org/p2/php-http/client-common.json
+Downloading https://repo.packagist.org/p2/symfony/polyfill-uuid.json if modified
+Downloading https://repo.packagist.org/p2/http-interop/http-factory-guzzle.json if modified
+Downloading https://repo.packagist.org/p2/symfony/http-client.json if modified
+[404] https://repo.packagist.org/p2/php-http/async-client-implementation.json
+[304] https://repo.packagist.org/p2/php-http/discovery.json
+[304] https://repo.packagist.org/p2/php-http/httplug.json
+Downloading https://repo.packagist.org/p2/dasprid/enum.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php56.json if modified
+Downloading https://repo.packagist.org/p2/phpseclib/phpseclib.json if modified
+[304] https://repo.packagist.org/p2/php-http/message.json
+Downloading https://repo.packagist.org/p2/symfony/translation.json if modified
+[304] https://repo.packagist.org/p2/psr/http-factory.json
+Downloading https://repo.packagist.org/p2/kylekatarnls/update-helper.json if modified
+[200] https://repo.packagist.org/p2/symfony/options-resolver.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~options-resolver.json into cache
+[304] https://repo.packagist.org/p2/symfony/polyfill-uuid.json
+[304] https://repo.packagist.org/p2/http-interop/http-factory-guzzle.json
+Downloading https://repo.packagist.org/p2/sebastian/recursion-context.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/code-unit-reverse-lookup.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/complexity.json if modified
+[200] https://repo.packagist.org/p2/symfony/http-client.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-client.json into cache
+[304] https://repo.packagist.org/p2/dasprid/enum.json
+[200] https://repo.packagist.org/p2/phpseclib/phpseclib.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-phpseclib~phpseclib.json into cache
+Downloading https://repo.packagist.org/p2/sebastian/lines-of-code.json if modified
+Downloading https://repo.packagist.org/p2/theseer/tokenizer.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/object-reflector.json if modified
+[404] https://repo.packagist.org/p2/psr/http-message-implementation.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-php56.json
+Downloading https://repo.packagist.org/p2/iexbase/web3.php.json if modified
+Downloading https://repo.packagist.org/p2/kornrunner/secp256k1.json if modified
+[200] https://repo.packagist.org/p2/symfony/translation.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~translation.json into cache
+[304] https://repo.packagist.org/p2/kylekatarnls/update-helper.json
+[304] https://repo.packagist.org/p2/sebastian/recursion-context.json
+[304] https://repo.packagist.org/p2/sebastian/code-unit-reverse-lookup.json
+[304] https://repo.packagist.org/p2/sebastian/complexity.json
+[304] https://repo.packagist.org/p2/sebastian/lines-of-code.json
+[304] https://repo.packagist.org/p2/theseer/tokenizer.json
+[304] https://repo.packagist.org/p2/sebastian/object-reflector.json
+[304] https://repo.packagist.org/p2/iexbase/web3.php.json
+[304] https://repo.packagist.org/p2/kornrunner/secp256k1.json
+Downloading https://repo.packagist.org/p2/simplito/elliptic-php.json if modified
+Downloading https://repo.packagist.org/p2/sc0vu/web3.php.json if modified
+Downloading https://repo.packagist.org/p2/doctrine/inflector~dev.json if modified
+Downloading https://repo.packagist.org/p2/voku/portable-ascii~dev.json if modified
+Downloading https://repo.packagist.org/p2/paragonie/random_compat~dev.json if modified
+Downloading https://repo.packagist.org/p2/danielstjules/stringy~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/process~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/finder~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-mbstring~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php80~dev.json if modified
+[304] https://repo.packagist.org/p2/simplito/elliptic-php.json
+[304] https://repo.packagist.org/p2/sc0vu/web3.php.json
+[304] https://repo.packagist.org/p2/doctrine/inflector~dev.json
+[200] https://repo.packagist.org/p2/symfony/process~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~process~dev.json into cache
+[200] https://repo.packagist.org/p2/symfony/finder~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~finder~dev.json into cache
+[304] https://repo.packagist.org/p2/symfony/polyfill-mbstring~dev.json
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php72~dev.json if modified
+Downloading https://repo.packagist.org/p2/nikic/php-parser~dev.json if modified
+Downloading https://repo.packagist.org/p2/dnoegel/php-xdg-base-dir~dev.json if modified
+Downloading https://repo.packagist.org/p2/jakub-onderka/php-console-highlighter~dev.json if modified
+Downloading https://repo.packagist.org/p2/psr/http-message~dev.json if modified
+Downloading https://repo.packagist.org/p2/ralouphie/getallheaders~dev.json if modified
+[304] https://repo.packagist.org/p2/voku/portable-ascii~dev.json
+[304] https://repo.packagist.org/p2/paragonie/random_compat~dev.json
+[304] https://repo.packagist.org/p2/danielstjules/stringy~dev.json
+Downloading https://repo.packagist.org/p2/psr/container~dev.json if modified
+Downloading https://repo.packagist.org/p2/psr/simple-cache~dev.json if modified
+Downloading https://repo.packagist.org/p2/illuminate/session~dev.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-php80~dev.json
+Downloading https://repo.packagist.org/p2/psr/log~dev.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-php72~dev.json
+[304] https://repo.packagist.org/p2/nikic/php-parser~dev.json
+[304] https://repo.packagist.org/p2/dnoegel/php-xdg-base-dir~dev.json
+[304] https://repo.packagist.org/p2/jakub-onderka/php-console-highlighter~dev.json
+[304] https://repo.packagist.org/p2/psr/http-message~dev.json
+[304] https://repo.packagist.org/p2/ralouphie/getallheaders~dev.json
+Downloading https://repo.packagist.org/p2/opis/closure~dev.json if modified
+Downloading https://repo.packagist.org/p2/ramsey/uuid~dev.json if modified
+Downloading https://repo.packagist.org/p2/egulias/email-validator~dev.json if modified
+Downloading https://repo.packagist.org/p2/monolog/monolog~dev.json if modified
+Downloading https://repo.packagist.org/p2/webmozart/assert~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php73~dev.json if modified
+[304] https://repo.packagist.org/p2/psr/container~dev.json
+[200] https://repo.packagist.org/p2/illuminate/session~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~session~dev.json into cache
+Downloading https://repo.packagist.org/p2/symfony/service-contracts~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/string~dev.json if modified
+[304] https://repo.packagist.org/p2/psr/simple-cache~dev.json
+Downloading https://repo.packagist.org/p2/symfony/deprecation-contracts~dev.json if modified
+[304] https://repo.packagist.org/p2/psr/log~dev.json
+Downloading https://repo.packagist.org/p2/symfony/event-dispatcher~dev.json if modified
+[304] https://repo.packagist.org/p2/opis/closure~dev.json
+[200] https://repo.packagist.org/p2/ramsey/uuid~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-ramsey~uuid~dev.json into cache
+[200] https://repo.packagist.org/p2/egulias/email-validator~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-egulias~email-validator~dev.json into cache
+[200] https://repo.packagist.org/p2/monolog/monolog~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-monolog~monolog~dev.json into cache
+[304] https://repo.packagist.org/p2/webmozart/assert~dev.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-php73~dev.json
+Downloading https://repo.packagist.org/p2/symfony/http-client-contracts~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-ctype~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-intl-idn~dev.json if modified
+Downloading https://repo.packagist.org/p2/phpdocumentor/reflection-docblock~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/property-access~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/property-info~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/service-contracts~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~service-contracts~dev.json into cache
+[200] https://repo.packagist.org/p2/symfony/string~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~string~dev.json into cache
+[200] https://repo.packagist.org/p2/symfony/deprecation-contracts~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~deprecation-contracts~dev.json into cache
+Downloading https://repo.packagist.org/p2/symfony/serializer~dev.json if modified
+Downloading https://repo.packagist.org/p2/graham-campbell/result-type~dev.json if modified
+Downloading https://repo.packagist.org/p2/phpoption/phpoption~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/event-dispatcher~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher~dev.json into cache
+Downloading https://repo.packagist.org/p2/jean85/pretty-package-versions~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/http-client-contracts~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-client-contracts~dev.json into cache
+Downloading https://repo.packagist.org/p2/ocramius/package-versions~dev.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-ctype~dev.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-intl-idn~dev.json
+[200] https://repo.packagist.org/p2/symfony/property-access~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~property-access~dev.json into cache
+[200] https://repo.packagist.org/p2/symfony/property-info~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~property-info~dev.json into cache
+Downloading https://repo.packagist.org/p2/php-http/async-client-implementation~dev.json
+Downloading https://repo.packagist.org/p2/php-http/client-common~dev.json if modified
+Downloading https://repo.packagist.org/p2/php-http/discovery~dev.json if modified
+Downloading https://repo.packagist.org/p2/php-http/httplug~dev.json if modified
+[304] https://repo.packagist.org/p2/phpdocumentor/reflection-docblock~dev.json
+Downloading https://repo.packagist.org/p2/php-http/message~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/serializer~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~serializer~dev.json into cache
+[200] https://repo.packagist.org/p2/graham-campbell/result-type~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-graham-campbell~result-type~dev.json into cache
+[304] https://repo.packagist.org/p2/phpoption/phpoption~dev.json
+Downloading https://repo.packagist.org/p2/psr/http-factory~dev.json if modified
+Downloading https://repo.packagist.org/p2/psr/http-message-implementation~dev.json
+Downloading https://repo.packagist.org/p2/symfony/options-resolver~dev.json if modified
+[200] https://repo.packagist.org/p2/jean85/pretty-package-versions~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-jean85~pretty-package-versions~dev.json into cache
+[304] https://repo.packagist.org/p2/ocramius/package-versions~dev.json
+Downloading https://repo.packagist.org/p2/symfony/polyfill-uuid~dev.json if modified
+Downloading https://repo.packagist.org/p2/http-interop/http-factory-guzzle~dev.json if modified
+[304] https://repo.packagist.org/p2/php-http/client-common~dev.json
+[304] https://repo.packagist.org/p2/php-http/discovery~dev.json
+[304] https://repo.packagist.org/p2/php-http/httplug~dev.json
+Downloading https://repo.packagist.org/p2/symfony/http-client~dev.json if modified
+Downloading https://repo.packagist.org/p2/dasprid/enum~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php56~dev.json if modified
+[304] https://repo.packagist.org/p2/php-http/message~dev.json
+Downloading https://repo.packagist.org/p2/phpseclib/phpseclib~dev.json if modified
+[404] https://repo.packagist.org/p2/php-http/async-client-implementation~dev.json
+Downloading https://repo.packagist.org/p2/symfony/translation~dev.json if modified
+[304] https://repo.packagist.org/p2/psr/http-factory~dev.json
+[200] https://repo.packagist.org/p2/symfony/options-resolver~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~options-resolver~dev.json into cache
+Downloading https://repo.packagist.org/p2/kylekatarnls/update-helper~dev.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/recursion-context~dev.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-uuid~dev.json
+[304] https://repo.packagist.org/p2/http-interop/http-factory-guzzle~dev.json
+Downloading https://repo.packagist.org/p2/sebastian/code-unit-reverse-lookup~dev.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/complexity~dev.json if modified
+[404] https://repo.packagist.org/p2/psr/http-message-implementation~dev.json
+Downloading https://repo.packagist.org/p2/sebastian/lines-of-code~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/http-client~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-client~dev.json into cache
+[304] https://repo.packagist.org/p2/dasprid/enum~dev.json
+[200] https://repo.packagist.org/p2/phpseclib/phpseclib~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-phpseclib~phpseclib~dev.json into cache
+Downloading https://repo.packagist.org/p2/theseer/tokenizer~dev.json if modified
+Downloading https://repo.packagist.org/p2/sebastian/object-reflector~dev.json if modified
+Downloading https://repo.packagist.org/p2/iexbase/web3.php~dev.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-php56~dev.json
+Downloading https://repo.packagist.org/p2/kornrunner/secp256k1~dev.json if modified
+[200] https://repo.packagist.org/p2/symfony/translation~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~translation~dev.json into cache
+[304] https://repo.packagist.org/p2/kylekatarnls/update-helper~dev.json
+[200] https://repo.packagist.org/p2/sebastian/recursion-context~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~recursion-context~dev.json into cache
+Downloading https://repo.packagist.org/p2/simplito/elliptic-php~dev.json if modified
+Downloading https://repo.packagist.org/p2/sc0vu/web3.php~dev.json if modified
+[200] https://repo.packagist.org/p2/sebastian/code-unit-reverse-lookup~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~code-unit-reverse-lookup~dev.json into cache
+[200] https://repo.packagist.org/p2/sebastian/complexity~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~complexity~dev.json into cache
+[200] https://repo.packagist.org/p2/sebastian/lines-of-code~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~lines-of-code~dev.json into cache
+[304] https://repo.packagist.org/p2/theseer/tokenizer~dev.json
+[200] https://repo.packagist.org/p2/sebastian/object-reflector~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~object-reflector~dev.json into cache
+[304] https://repo.packagist.org/p2/iexbase/web3.php~dev.json
+[304] https://repo.packagist.org/p2/kornrunner/secp256k1~dev.json
+[304] https://repo.packagist.org/p2/simplito/elliptic-php~dev.json
+[304] https://repo.packagist.org/p2/sc0vu/web3.php~dev.json
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~contracts.json from cache
+Downloading https://repo.packagist.org/p2/symfony/contracts.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~debug.json from cache
+Downloading https://repo.packagist.org/p2/symfony/debug.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~container.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~database.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pipeline.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ramsey~uuid.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-opis~closure.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~process.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~console.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~filesystem.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~mime.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php70.json from cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php70.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php54.json from cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php54.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php55.json from cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php55.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-foundation.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~diff.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~exporter.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-jakub-onderka~php-console-color.json from cache
+Downloading https://repo.packagist.org/p2/jakub-onderka/php-console-color.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~finder.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-brick~math.json from cache
+Downloading https://repo.packagist.org/p2/brick/math.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ramsey~collection.json from cache
+Downloading https://repo.packagist.org/p2/ramsey/collection.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~lexer.json from cache
+Downloading https://repo.packagist.org/p2/doctrine/lexer.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-intl-grapheme.json from cache
+Downloading https://repo.packagist.org/p2/symfony/polyfill-intl-grapheme.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-intl-normalizer.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher-contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~inflector.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpdocumentor~type-resolver.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpdocumentor~reflection-common.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-webmozart~assert.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpoption~phpoption.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-composer~package-versions-deprecated.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~message-factory.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~options-resolver.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~message.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~promise.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-clue~stream-filter.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php73.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-paragonie~random-compat.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~service-contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-paragonie~constant-time-encoding.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-util.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~translation-contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kornrunner~keccak.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-mdanter~ecc.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-simplito~bn-php.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~debug~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~container~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~database~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~pipeline~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ramsey~uuid~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-opis~closure~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~process~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~console~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-illuminate~filesystem~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~mime~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php70~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php54~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php55~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~http-foundation~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~diff~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-sebastian~exporter~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-jakub-onderka~php-console-color~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~finder~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-brick~math~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ramsey~collection~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-doctrine~lexer~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-intl-grapheme~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-intl-normalizer~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher-contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~inflector~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpdocumentor~type-resolver~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpdocumentor~reflection-common~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-webmozart~assert~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpoption~phpoption~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-composer~package-versions-deprecated~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~message-factory~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~options-resolver~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~message~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-php-http~promise~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-clue~stream-filter~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-php73~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-paragonie~random-compat~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~service-contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-paragonie~constant-time-encoding~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~polyfill-util~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~translation-contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-kornrunner~keccak~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-mdanter~ecc~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-simplito~bn-php~dev.json from cache
+[304] https://repo.packagist.org/p2/symfony/contracts.json
+Downloading https://repo.packagist.org/p2/symfony/polyfill-intl-normalizer.json if modified
+[200] https://repo.packagist.org/p2/symfony/debug.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~debug.json into cache
+[304] https://repo.packagist.org/p2/symfony/polyfill-php70.json
+Downloading https://repo.packagist.org/p2/symfony/event-dispatcher-contracts.json if modified
+Downloading https://repo.packagist.org/p2/symfony/inflector.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-php54.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-php55.json
+[304] https://repo.packagist.org/p2/jakub-onderka/php-console-color.json
+[304] https://repo.packagist.org/p2/brick/math.json
+[304] https://repo.packagist.org/p2/ramsey/collection.json
+[304] https://repo.packagist.org/p2/doctrine/lexer.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-intl-grapheme.json
+Downloading https://repo.packagist.org/p2/phpdocumentor/type-resolver.json if modified
+Downloading https://repo.packagist.org/p2/phpdocumentor/reflection-common.json if modified
+Downloading https://repo.packagist.org/p2/php-http/message-factory.json if modified
+Downloading https://repo.packagist.org/p2/php-http/promise.json if modified
+Downloading https://repo.packagist.org/p2/clue/stream-filter.json if modified
+Downloading https://repo.packagist.org/p2/paragonie/constant_time_encoding.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-util.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-intl-normalizer.json
+Downloading https://repo.packagist.org/p2/symfony/translation-contracts.json if modified
+[304] https://repo.packagist.org/p2/symfony/event-dispatcher-contracts.json
+[200] https://repo.packagist.org/p2/symfony/inflector.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~inflector.json into cache
+Downloading https://repo.packagist.org/p2/kornrunner/keccak.json if modified
+Downloading https://repo.packagist.org/p2/mdanter/ecc.json if modified
+[304] https://repo.packagist.org/p2/phpdocumentor/type-resolver.json
+[304] https://repo.packagist.org/p2/phpdocumentor/reflection-common.json
+[304] https://repo.packagist.org/p2/php-http/message-factory.json
+[304] https://repo.packagist.org/p2/php-http/promise.json
+[304] https://repo.packagist.org/p2/clue/stream-filter.json
+[304] https://repo.packagist.org/p2/paragonie/constant_time_encoding.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-util.json
+[304] https://repo.packagist.org/p2/symfony/translation-contracts.json
+Downloading https://repo.packagist.org/p2/simplito/bn-php.json if modified
+Downloading https://repo.packagist.org/p2/symfony/contracts~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/debug~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php70~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php54~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-php55~dev.json if modified
+Downloading https://repo.packagist.org/p2/jakub-onderka/php-console-color~dev.json if modified
+Downloading https://repo.packagist.org/p2/brick/math~dev.json if modified
+[304] https://repo.packagist.org/p2/kornrunner/keccak.json
+[304] https://repo.packagist.org/p2/mdanter/ecc.json
+Downloading https://repo.packagist.org/p2/ramsey/collection~dev.json if modified
+Downloading https://repo.packagist.org/p2/doctrine/lexer~dev.json if modified
+[304] https://repo.packagist.org/p2/simplito/bn-php.json
+[200] https://repo.packagist.org/p2/symfony/contracts~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~contracts~dev.json into cache
+[200] https://repo.packagist.org/p2/symfony/debug~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~debug~dev.json into cache
+[304] https://repo.packagist.org/p2/symfony/polyfill-php70~dev.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-php54~dev.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-php55~dev.json
+Downloading https://repo.packagist.org/p2/symfony/polyfill-intl-grapheme~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/polyfill-intl-normalizer~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/event-dispatcher-contracts~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/inflector~dev.json if modified
+Downloading https://repo.packagist.org/p2/phpdocumentor/type-resolver~dev.json if modified
+Downloading https://repo.packagist.org/p2/phpdocumentor/reflection-common~dev.json if modified
+[304] https://repo.packagist.org/p2/jakub-onderka/php-console-color~dev.json
+[200] https://repo.packagist.org/p2/brick/math~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-brick~math~dev.json into cache
+Downloading https://repo.packagist.org/p2/php-http/message-factory~dev.json if modified
+Downloading https://repo.packagist.org/p2/php-http/promise~dev.json if modified
+[200] https://repo.packagist.org/p2/ramsey/collection~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-ramsey~collection~dev.json into cache
+[304] https://repo.packagist.org/p2/doctrine/lexer~dev.json
+Downloading https://repo.packagist.org/p2/clue/stream-filter~dev.json if modified
+Downloading https://repo.packagist.org/p2/paragonie/constant_time_encoding~dev.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-intl-grapheme~dev.json
+[200] https://repo.packagist.org/p2/symfony/event-dispatcher-contracts~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher-contracts~dev.json into cache
+[200] https://repo.packagist.org/p2/symfony/inflector~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~inflector~dev.json into cache
+[304] https://repo.packagist.org/p2/phpdocumentor/type-resolver~dev.json
+[304] https://repo.packagist.org/p2/phpdocumentor/reflection-common~dev.json
+[304] https://repo.packagist.org/p2/php-http/message-factory~dev.json
+[304] https://repo.packagist.org/p2/php-http/promise~dev.json
+Downloading https://repo.packagist.org/p2/symfony/polyfill-util~dev.json if modified
+Downloading https://repo.packagist.org/p2/symfony/translation-contracts~dev.json if modified
+Downloading https://repo.packagist.org/p2/kornrunner/keccak~dev.json if modified
+Downloading https://repo.packagist.org/p2/mdanter/ecc~dev.json if modified
+Downloading https://repo.packagist.org/p2/simplito/bn-php~dev.json if modified
+[304] https://repo.packagist.org/p2/symfony/polyfill-intl-normalizer~dev.json
+[304] https://repo.packagist.org/p2/clue/stream-filter~dev.json
+[304] https://repo.packagist.org/p2/paragonie/constant_time_encoding~dev.json
+[304] https://repo.packagist.org/p2/symfony/polyfill-util~dev.json
+[200] https://repo.packagist.org/p2/symfony/translation-contracts~dev.json
+Writing /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~translation-contracts~dev.json into cache
+[304] https://repo.packagist.org/p2/kornrunner/keccak~dev.json
+[304] https://repo.packagist.org/p2/mdanter/ecc~dev.json
+[304] https://repo.packagist.org/p2/simplito/bn-php~dev.json
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher-contracts.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~cache.json from cache
+Downloading https://repo.packagist.org/p2/psr/cache.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ircmaxell~password-compat.json from cache
+Downloading https://repo.packagist.org/p2/ircmaxell/password-compat.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~event-dispatcher.json from cache
+Downloading https://repo.packagist.org/p2/psr/event-dispatcher.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpdocumentor~reflection-common.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-fgrosse~phpasn1.json from cache
+Downloading https://repo.packagist.org/p2/fgrosse/phpasn1.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-simplito~bigint-wrapper-php.json from cache
+Downloading https://repo.packagist.org/p2/simplito/bigint-wrapper-php.json if modified
+Downloading https://repo.packagist.org/p2/simplito/bi-php.json
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-symfony~event-dispatcher-contracts~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~cache~dev.json from cache
+Downloading https://repo.packagist.org/p2/psr/cache~dev.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-ircmaxell~password-compat~dev.json from cache
+Downloading https://repo.packagist.org/p2/ircmaxell/password-compat~dev.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-psr~event-dispatcher~dev.json from cache
+Downloading https://repo.packagist.org/p2/psr/event-dispatcher~dev.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-phpdocumentor~reflection-common~dev.json from cache
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-fgrosse~phpasn1~dev.json from cache
+Downloading https://repo.packagist.org/p2/fgrosse/phpasn1~dev.json if modified
+Reading /root/.cache/composer/repo/https---repo.packagist.org/provider-simplito~bigint-wrapper-php~dev.json from cache
+[304] https://repo.packagist.org/p2/psr/cache.json
+[304] https://repo.packagist.org/p2/ircmaxell/password-compat.json
+[304] https://repo.packagist.org/p2/psr/event-dispatcher.json
+[304] https://repo.packagist.org/p2/fgrosse/phpasn1.json
+[304] https://repo.packagist.org/p2/simplito/bigint-wrapper-php.json
+[304] https://repo.packagist.org/p2/psr/cache~dev.json
+[304] https://repo.packagist.org/p2/ircmaxell/password-compat~dev.json
+[304] https://repo.packagist.org/p2/psr/event-dispatcher~dev.json
+[304] https://repo.packagist.org/p2/fgrosse/phpasn1~dev.json
+Downloading https://repo.packagist.org/p2/simplito/bigint-wrapper-php~dev.json if modified
+Downloading https://repo.packagist.org/p2/simplito/bi-php~dev.json
+[404] https://repo.packagist.org/p2/simplito/bi-php.json
+[304] https://repo.packagist.org/p2/simplito/bigint-wrapper-php~dev.json
+[404] https://repo.packagist.org/p2/simplito/bi-php~dev.json
+Updating dependencies
+Generating rules
+Resolving dependencies through SAT
+Looking at all rules.
+Something's changed, looking at all rules again (pass #1)Something's changed, looking at all rules again (pass #2)
+Dependency resolution completed in 0.395 seconds
+Analyzed 10348 packages to resolve dependencies
+Analyzed 239233 rules to resolve dependencies
+Generating rules
+Resolving dependencies through SAT
+Looking at all rules.
+
+Dependency resolution completed in 0.001 seconds
+Lock file operations: 0 installs, 56 updates, 0 removals
+Updates: symfony/polyfill-php72:v1.22.0, symfony/polyfill-intl-normalizer:v1.22.0, symfony/polyfill-intl-idn:v1.22.0, symfony/polyfill-php80:v1.22.0, symfony/polyfill-mbstring:v1.22.0, symfony/var-dumper:v5.2.2, symfony/polyfill-intl-grapheme:v1.22.0, symfony/polyfill-ctype:v1.22.0, symfony/string:v5.2.2, symfony/polyfill-php73:v1.22.0, symfony/console:v5.2.2, psy/psysh:v0.10.6, symfony/finder:v5.2.2, symfony/translation:v5.2.2, nesbot/carbon:2.44.0, illuminate/macroable:v8.25.0, illuminate/contracts:v8.25.0, illuminate/collections:v8.25.0, illuminate/support:v8.25.0, illuminate/filesystem:v8.25.0, symfony/process:v5.2.2, illuminate/console:v8.25.0, illuminate/redis:v8.25.0, symfony/http-foundation:v5.2.2, illuminate/session:v8.25.0, vlucas/phpdotenv:v5.3.0, symfony/mime:v5.2.2, symfony/event-dispatcher:v5.2.2, symfony/error-handler:v5.2.2, symfony/http-kernel:v5.2.2, illuminate/log:v8.25.0, illuminate/container:v8.25.0, illuminate/pipeline:v8.25.0, illuminate/bus:v8.25.0, illuminate/events:v8.25.0, illuminate/view:v8.25.0, illuminate/translation:v8.25.0, illuminate/validation:v8.25.0, illuminate/testing:v8.25.0, ramsey/collection:1.1.3, brick/math:0.9.2, illuminate/database:v8.25.0, illuminate/queue:v8.25.0, illuminate/pagination:v8.25.0, illuminate/http:v8.25.0, illuminate/hashing:v8.25.0, illuminate/encryption:v8.25.0, illuminate/config:v8.25.0, illuminate/cache:v8.25.0, illuminate/broadcasting:v8.25.0, illuminate/auth:v8.25.0, laravel/lumen-framework:v8.2.2, symfony/options-resolver:v5.2.2, phpunit/phpunit:9.5.1, symfony/http-client:v5.2.2, sentry/sentry:3.1.3
+  - Upgrading brick/math (0.9.1 => 0.9.2)
+  - Upgrading illuminate/auth (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/broadcasting (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/bus (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/cache (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/collections (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/config (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/console (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/container (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/contracts (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/database (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/encryption (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/events (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/filesystem (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/hashing (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/http (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/log (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/macroable (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/pagination (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/pipeline (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/queue (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/redis (v8.24.0 => v8.25.0)
+  - Upgrading illuminate/session (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/support (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/testing (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/translation (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/validation (v8.20.1 => v8.25.0)
+  - Upgrading illuminate/view (v8.20.1 => v8.25.0)
+  - Upgrading laravel/lumen-framework (v8.2.1 => v8.2.2)
+  - Upgrading nesbot/carbon (2.43.0 => 2.44.0)
+  - Upgrading phpunit/phpunit (9.5.0 => 9.5.1)
+  - Upgrading psy/psysh (v0.10.5 => v0.10.6)
+  - Upgrading ramsey/collection (1.1.1 => 1.1.3)
+  - Upgrading sentry/sentry (3.1.2 => 3.1.3)
+  - Upgrading symfony/console (v5.2.1 => v5.2.2)
+  - Upgrading symfony/error-handler (v5.2.1 => v5.2.2)
+  - Upgrading symfony/event-dispatcher (v5.2.1 => v5.2.2)
+  - Upgrading symfony/finder (v5.2.1 => v5.2.2)
+  - Upgrading symfony/http-client (v5.2.1 => v5.2.2)
+  - Upgrading symfony/http-foundation (v5.2.1 => v5.2.2)
+  - Upgrading symfony/http-kernel (v5.2.1 => v5.2.2)
+  - Upgrading symfony/mime (v5.2.1 => v5.2.2)
+  - Upgrading symfony/options-resolver (v5.2.1 => v5.2.2)
+  - Upgrading symfony/polyfill-ctype (v1.20.0 => v1.22.0)
+  - Upgrading symfony/polyfill-intl-grapheme (v1.20.0 => v1.22.0)
+  - Upgrading symfony/polyfill-intl-idn (v1.20.0 => v1.22.0)
+  - Upgrading symfony/polyfill-intl-normalizer (v1.20.0 => v1.22.0)
+  - Upgrading symfony/polyfill-mbstring (v1.20.0 => v1.22.0)
+  - Upgrading symfony/polyfill-php72 (v1.20.0 => v1.22.0)
+  - Upgrading symfony/polyfill-php73 (v1.20.0 => v1.22.0)
+  - Upgrading symfony/polyfill-php80 (v1.20.0 => v1.22.0)
+  - Upgrading symfony/process (v5.2.1 => v5.2.2)
+  - Upgrading symfony/string (v5.2.1 => v5.2.2)
+  - Upgrading symfony/translation (v5.2.1 => v5.2.2)
+  - Upgrading symfony/var-dumper (v5.2.1 => v5.2.2)
+  - Upgrading vlucas/phpdotenv (v5.2.0 => v5.3.0)
+Writing lock file
+Installing dependencies from lock file (including require-dev)
+Reading ./composer.lock
+Nothing to install, update or remove
+Generating optimized autoload files
+Class App\Http\Resources\WithdrawRequest located in ./app/Http/Resources/WithdrawRequestResource.php does not comply with psr-4 autoloading standard. Skipping.
+> post-autoload-dump: PackageVersions\Installer->dumpVersionsClass
+80 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
